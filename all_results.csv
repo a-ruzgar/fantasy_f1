@@ -1,0 +1,1360 @@
+,Driver,TeamId,GridPosition,Position,Time,Status,Race,Rain
+0,LEC,ferrari,1.0,1.0,5853584000000.0,Finished,Bahrain Grand Prix,0.0
+1,SAI,ferrari,3.0,2.0,5859182000000.0,Finished,Bahrain Grand Prix,0.0
+2,HAM,mercedes,5.0,3.0,5863259000000.0,Finished,Bahrain Grand Prix,0.0
+3,RUS,mercedes,9.0,4.0,5864795000000.0,Finished,Bahrain Grand Prix,0.0
+4,MAG,haas,7.0,5.0,5868338000000.0,Finished,Bahrain Grand Prix,0.0
+5,BOT,sauber,6.0,6.0,5869703000000.0,Finished,Bahrain Grand Prix,0.0
+6,OCO,alpine,11.0,7.0,5873007000000.0,Finished,Bahrain Grand Prix,0.0
+7,TSU,rb,16.0,8.0,5873970000000.0,Finished,Bahrain Grand Prix,0.0
+8,ALO,alpine,8.0,9.0,5875974000000.0,Finished,Bahrain Grand Prix,0.0
+9,ZHO,sauber,15.0,10.0,5876648000000.0,Finished,Bahrain Grand Prix,0.0
+10,MSC,haas,12.0,11.0,5886158000000.0,Finished,Bahrain Grand Prix,0.0
+11,STR,aston_martin,19.0,12.0,5899457000000.0,Finished,Bahrain Grand Prix,0.0
+12,ALB,williams,14.0,13.0,5907516000000.0,Finished,Bahrain Grand Prix,0.0
+13,RIC,mclaren,18.0,14.0,5908559000000.0,Finished,Bahrain Grand Prix,0.0
+14,NOR,mclaren,13.0,15.0,5909919000000.0,Finished,Bahrain Grand Prix,0.0
+15,LAT,williams,20.0,16.0,5915379000000.0,Finished,Bahrain Grand Prix,0.0
+16,HUL,aston_martin,17.0,17.0,5917413000000.0,Finished,Bahrain Grand Prix,0.0
+17,PER,red_bull,4.0,18.0,,Fuel pressure,Bahrain Grand Prix,0.0
+18,VER,red_bull,2.0,19.0,,Fuel pressure,Bahrain Grand Prix,0.0
+19,GAS,rb,10.0,20.0,,Power Unit,Bahrain Grand Prix,0.0
+20,VER,red_bull,4.0,1.0,5059293000000.0,Finished,Saudi Arabian Grand Prix,0.0
+21,LEC,ferrari,2.0,2.0,5059842000000.0,Finished,Saudi Arabian Grand Prix,0.0
+22,SAI,ferrari,3.0,3.0,5067390000000.0,Finished,Saudi Arabian Grand Prix,0.0
+23,PER,red_bull,1.0,4.0,5070093000000.0,Finished,Saudi Arabian Grand Prix,0.0
+24,RUS,mercedes,6.0,5.0,5092025000000.0,Finished,Saudi Arabian Grand Prix,0.0
+25,OCO,alpine,5.0,6.0,5115310000000.0,Finished,Saudi Arabian Grand Prix,0.0
+26,NOR,mclaren,11.0,7.0,5115417000000.0,Finished,Saudi Arabian Grand Prix,0.0
+27,GAS,rb,9.0,8.0,5122239000000.0,Finished,Saudi Arabian Grand Prix,0.0
+28,MAG,haas,10.0,9.0,5123601000000.0,Finished,Saudi Arabian Grand Prix,0.0
+29,HAM,mercedes,15.0,10.0,5133241000000.0,Finished,Saudi Arabian Grand Prix,0.0
+30,ZHO,sauber,12.0,11.0,5141508000000.0,Finished,Saudi Arabian Grand Prix,0.0
+31,HUL,aston_martin,17.0,12.0,5151035000000.0,Finished,Saudi Arabian Grand Prix,0.0
+32,STR,aston_martin,13.0,13.0,,+1 Lap,Saudi Arabian Grand Prix,0.0
+33,ALB,williams,16.0,14.0,,Collision damage,Saudi Arabian Grand Prix,0.0
+34,BOT,sauber,8.0,15.0,,Cooling system,Saudi Arabian Grand Prix,0.0
+35,ALO,alpine,7.0,16.0,,Water pump,Saudi Arabian Grand Prix,0.0
+36,RIC,mclaren,14.0,17.0,,Gearbox,Saudi Arabian Grand Prix,0.0
+37,LAT,williams,18.0,18.0,,Accident,Saudi Arabian Grand Prix,0.0
+38,TSU,rb,19.0,19.0,,Power Unit,Saudi Arabian Grand Prix,0.0
+39,MSC,haas,,,,Withdrew,Saudi Arabian Grand Prix,0.0
+40,LEC,ferrari,1.0,1.0,5266548000000.0,Finished,Australian Grand Prix,0.0
+41,PER,red_bull,3.0,2.0,5287072000000.0,Finished,Australian Grand Prix,0.0
+42,RUS,mercedes,6.0,3.0,5292141000000.0,Finished,Australian Grand Prix,0.0
+43,HAM,mercedes,5.0,4.0,5295091000000.0,Finished,Australian Grand Prix,0.0
+44,NOR,mclaren,4.0,5.0,5319851000000.0,Finished,Australian Grand Prix,0.0
+45,RIC,mclaren,7.0,6.0,5320285000000.0,Finished,Australian Grand Prix,0.0
+46,OCO,alpine,8.0,7.0,5328231000000.0,Finished,Australian Grand Prix,0.0
+47,BOT,sauber,12.0,8.0,5334987000000.0,Finished,Australian Grand Prix,0.0
+48,GAS,rb,11.0,9.0,5342769000000.0,Finished,Australian Grand Prix,0.0
+49,ALB,williams,20.0,10.0,5345930000000.0,Finished,Australian Grand Prix,0.0
+50,ZHO,sauber,14.0,11.0,5348243000000.0,Finished,Australian Grand Prix,0.0
+51,STR,aston_martin,19.0,12.0,5355146000000.0,Finished,Australian Grand Prix,0.0
+52,MSC,haas,15.0,13.0,,+1 Lap,Australian Grand Prix,0.0
+53,MAG,haas,16.0,14.0,,+1 Lap,Australian Grand Prix,0.0
+54,TSU,rb,13.0,15.0,,+1 Lap,Australian Grand Prix,0.0
+55,LAT,williams,18.0,16.0,,+1 Lap,Australian Grand Prix,0.0
+56,ALO,alpine,10.0,17.0,,+1 Lap,Australian Grand Prix,0.0
+57,VER,red_bull,2.0,18.0,,Fuel leak,Australian Grand Prix,0.0
+58,VET,aston_martin,17.0,19.0,,Accident,Australian Grand Prix,0.0
+59,SAI,ferrari,9.0,20.0,,Spun off,Australian Grand Prix,0.0
+60,VER,red_bull,1.0,1.0,5527986000000.0,Finished,Emilia Romagna Grand Prix,0.0
+61,PER,red_bull,3.0,2.0,5544513000000.0,Finished,Emilia Romagna Grand Prix,0.0
+62,NOR,mclaren,5.0,3.0,5562820000000.0,Finished,Emilia Romagna Grand Prix,0.0
+63,RUS,mercedes,11.0,4.0,5570492000000.0,Finished,Emilia Romagna Grand Prix,0.0
+64,BOT,sauber,7.0,5.0,5571167000000.0,Finished,Emilia Romagna Grand Prix,0.0
+65,LEC,ferrari,2.0,6.0,5584058000000.0,Finished,Emilia Romagna Grand Prix,0.0
+66,TSU,rb,12.0,7.0,5589096000000.0,Finished,Emilia Romagna Grand Prix,0.0
+67,VET,aston_martin,13.0,8.0,5598878000000.0,Finished,Emilia Romagna Grand Prix,0.0
+68,MAG,haas,8.0,9.0,5603246000000.0,Finished,Emilia Romagna Grand Prix,0.0
+69,STR,aston_martin,15.0,10.0,,+1 Lap,Emilia Romagna Grand Prix,0.0
+70,ALB,williams,18.0,11.0,,+1 Lap,Emilia Romagna Grand Prix,0.0
+71,GAS,rb,17.0,12.0,,+1 Lap,Emilia Romagna Grand Prix,0.0
+72,HAM,mercedes,14.0,13.0,,+1 Lap,Emilia Romagna Grand Prix,0.0
+73,OCO,alpine,16.0,14.0,,+1 Lap,Emilia Romagna Grand Prix,0.0
+74,ZHO,sauber,0.0,15.0,,+1 Lap,Emilia Romagna Grand Prix,0.0
+75,LAT,williams,19.0,16.0,,+1 Lap,Emilia Romagna Grand Prix,0.0
+76,MSC,haas,10.0,17.0,,+1 Lap,Emilia Romagna Grand Prix,0.0
+77,RIC,mclaren,6.0,18.0,,+1 Lap,Emilia Romagna Grand Prix,0.0
+78,ALO,alpine,9.0,19.0,,Collision damage,Emilia Romagna Grand Prix,0.0
+79,SAI,ferrari,4.0,20.0,,Collision,Emilia Romagna Grand Prix,0.0
+80,VER,red_bull,3.0,1.0,5664258000000.0,Finished,Miami Grand Prix,0.0555555555555555
+81,LEC,ferrari,1.0,2.0,5668044000000.0,Finished,Miami Grand Prix,0.0555555555555555
+82,SAI,ferrari,2.0,3.0,5672487000000.0,Finished,Miami Grand Prix,0.0555555555555555
+83,PER,red_bull,4.0,4.0,5674896000000.0,Finished,Miami Grand Prix,0.0555555555555555
+84,RUS,mercedes,12.0,5.0,5682840000000.0,Finished,Miami Grand Prix,0.0555555555555555
+85,HAM,mercedes,6.0,6.0,5685626000000.0,Finished,Miami Grand Prix,0.0555555555555555
+86,BOT,sauber,5.0,7.0,5689331000000.0,Finished,Miami Grand Prix,0.0555555555555555
+87,OCO,alpine,20.0,8.0,5692644000000.0,Finished,Miami Grand Prix,0.0555555555555555
+88,ALB,williams,18.0,9.0,5696623000000.0,Finished,Miami Grand Prix,0.0555555555555555
+89,STR,aston_martin,0.0,10.0,5701284000000.0,Finished,Miami Grand Prix,0.0555555555555555
+90,ALO,alpine,11.0,11.0,5701386000000.0,Finished,Miami Grand Prix,0.0555555555555555
+91,TSU,rb,9.0,12.0,5704404000000.0,Finished,Miami Grand Prix,0.0555555555555555
+92,RIC,mclaren,14.0,13.0,5705160000000.0,Finished,Miami Grand Prix,0.0555555555555555
+93,LAT,williams,19.0,14.0,5714194000000.0,Finished,Miami Grand Prix,0.0555555555555555
+94,MSC,haas,15.0,15.0,5737563000000.0,Finished,Miami Grand Prix,0.0555555555555555
+95,MAG,haas,16.0,16.0,,Front wing,Miami Grand Prix,0.0555555555555555
+96,VET,aston_martin,0.0,17.0,,Collision,Miami Grand Prix,0.0555555555555555
+97,GAS,rb,7.0,18.0,,Suspension,Miami Grand Prix,0.0555555555555555
+98,NOR,mclaren,8.0,19.0,,Collision,Miami Grand Prix,0.0555555555555555
+99,ZHO,sauber,17.0,20.0,,Water leak,Miami Grand Prix,0.0555555555555555
+100,VER,red_bull,2.0,1.0,5840475000000.0,Finished,Spanish Grand Prix,0.0
+101,PER,red_bull,5.0,2.0,5853547000000.0,Finished,Spanish Grand Prix,0.0
+102,RUS,mercedes,4.0,3.0,5873402000000.0,Finished,Spanish Grand Prix,0.0
+103,SAI,ferrari,3.0,4.0,5885683000000.0,Finished,Spanish Grand Prix,0.0
+104,HAM,mercedes,6.0,5.0,5895009000000.0,Finished,Spanish Grand Prix,0.0
+105,BOT,sauber,7.0,6.0,5900451000000.0,Finished,Spanish Grand Prix,0.0
+106,OCO,alpine,12.0,7.0,5915872000000.0,Finished,Spanish Grand Prix,0.0
+107,NOR,mclaren,11.0,8.0,5923710000000.0,Finished,Spanish Grand Prix,0.0
+108,ALO,alpine,20.0,9.0,,+1 Lap,Spanish Grand Prix,0.0
+109,TSU,rb,13.0,10.0,,+1 Lap,Spanish Grand Prix,0.0
+110,VET,aston_martin,16.0,11.0,,+1 Lap,Spanish Grand Prix,0.0
+111,RIC,mclaren,9.0,12.0,,+1 Lap,Spanish Grand Prix,0.0
+112,GAS,rb,14.0,13.0,,+1 Lap,Spanish Grand Prix,0.0
+113,MSC,haas,10.0,14.0,,+1 Lap,Spanish Grand Prix,0.0
+114,STR,aston_martin,17.0,15.0,,+1 Lap,Spanish Grand Prix,0.0
+115,LAT,williams,19.0,16.0,,+2 Laps,Spanish Grand Prix,0.0
+116,MAG,haas,8.0,17.0,,+2 Laps,Spanish Grand Prix,0.0
+117,ALB,williams,18.0,18.0,,+2 Laps,Spanish Grand Prix,0.0
+118,ZHO,sauber,15.0,19.0,,Power loss,Spanish Grand Prix,0.0
+119,LEC,ferrari,1.0,20.0,,Turbo,Spanish Grand Prix,0.0
+120,PER,red_bull,3.0,1.0,6990265000000.0,Finished,Monaco Grand Prix,0.436734693877551
+121,SAI,ferrari,2.0,2.0,6991419000000.0,Finished,Monaco Grand Prix,0.436734693877551
+122,VER,red_bull,4.0,3.0,6991756000000.0,Finished,Monaco Grand Prix,0.436734693877551
+123,LEC,ferrari,1.0,4.0,6993187000000.0,Finished,Monaco Grand Prix,0.436734693877551
+124,RUS,mercedes,6.0,5.0,7002233000000.0,Finished,Monaco Grand Prix,0.436734693877551
+125,NOR,mclaren,5.0,6.0,7002496000000.0,Finished,Monaco Grand Prix,0.436734693877551
+126,ALO,alpine,7.0,7.0,7036623000000.0,Finished,Monaco Grand Prix,0.436734693877551
+127,HAM,mercedes,8.0,8.0,7040653000000.0,Finished,Monaco Grand Prix,0.436734693877551
+128,BOT,sauber,12.0,9.0,7042790000000.0,Finished,Monaco Grand Prix,0.436734693877551
+129,VET,aston_martin,9.0,10.0,7043801000000.0,Finished,Monaco Grand Prix,0.436734693877551
+130,GAS,rb,17.0,11.0,7044554000000.0,Finished,Monaco Grand Prix,0.436734693877551
+131,OCO,alpine,10.0,12.0,7045909000000.0,Finished,Monaco Grand Prix,0.436734693877551
+132,RIC,mclaren,14.0,13.0,7047900000000.0,Finished,Monaco Grand Prix,0.436734693877551
+133,STR,aston_martin,18.0,14.0,7051067000000.0,Finished,Monaco Grand Prix,0.436734693877551
+134,LAT,williams,19.0,15.0,,+1 Lap,Monaco Grand Prix,0.436734693877551
+135,ZHO,sauber,20.0,16.0,,+1 Lap,Monaco Grand Prix,0.436734693877551
+136,TSU,rb,11.0,17.0,,+1 Lap,Monaco Grand Prix,0.436734693877551
+137,ALB,williams,16.0,18.0,,Mechanical,Monaco Grand Prix,0.436734693877551
+138,MSC,haas,15.0,19.0,,Accident,Monaco Grand Prix,0.436734693877551
+139,MAG,haas,13.0,20.0,,Water pressure,Monaco Grand Prix,0.436734693877551
+140,VER,red_bull,3.0,1.0,5645941000000.0,Finished,Azerbaijan Grand Prix,0.0
+141,PER,red_bull,2.0,2.0,5666764000000.0,Finished,Azerbaijan Grand Prix,0.0
+142,RUS,mercedes,5.0,3.0,5691936000000.0,Finished,Azerbaijan Grand Prix,0.0
+143,HAM,mercedes,7.0,4.0,5717620000000.0,Finished,Azerbaijan Grand Prix,0.0
+144,GAS,rb,6.0,5.0,5723240000000.0,Finished,Azerbaijan Grand Prix,0.0
+145,VET,aston_martin,9.0,6.0,5730040000000.0,Finished,Azerbaijan Grand Prix,0.0
+146,ALO,alpine,10.0,7.0,5734537000000.0,Finished,Azerbaijan Grand Prix,0.0
+147,RIC,mclaren,12.0,8.0,5738148000000.0,Finished,Azerbaijan Grand Prix,0.0
+148,NOR,mclaren,11.0,9.0,5738497000000.0,Finished,Azerbaijan Grand Prix,0.0
+149,OCO,alpine,13.0,10.0,5754125000000.0,Finished,Azerbaijan Grand Prix,0.0
+150,BOT,sauber,15.0,11.0,,+1 Lap,Azerbaijan Grand Prix,0.0
+151,ALB,williams,17.0,12.0,,+1 Lap,Azerbaijan Grand Prix,0.0
+152,TSU,rb,8.0,13.0,,+1 Lap,Azerbaijan Grand Prix,0.0
+153,MSC,haas,20.0,14.0,,+1 Lap,Azerbaijan Grand Prix,0.0
+154,LAT,williams,18.0,15.0,,+1 Lap,Azerbaijan Grand Prix,0.0
+155,STR,aston_martin,19.0,16.0,,Vibrations,Azerbaijan Grand Prix,0.0
+156,MAG,haas,16.0,17.0,,Power Unit,Azerbaijan Grand Prix,0.0
+157,ZHO,sauber,14.0,18.0,,Hydraulics,Azerbaijan Grand Prix,0.0
+158,LEC,ferrari,1.0,19.0,,Power Unit,Azerbaijan Grand Prix,0.0
+159,SAI,ferrari,4.0,20.0,,Hydraulics,Azerbaijan Grand Prix,0.0
+160,VER,red_bull,1.0,1.0,5781757000000.0,Finished,Canadian Grand Prix,0.0
+161,SAI,ferrari,3.0,2.0,5782750000000.0,Finished,Canadian Grand Prix,0.0
+162,HAM,mercedes,4.0,3.0,5788763000000.0,Finished,Canadian Grand Prix,0.0
+163,RUS,mercedes,8.0,4.0,5794070000000.0,Finished,Canadian Grand Prix,0.0
+164,LEC,ferrari,19.0,5.0,5796925000000.0,Finished,Canadian Grand Prix,0.0
+165,OCO,alpine,7.0,6.0,5805647000000.0,Finished,Canadian Grand Prix,0.0
+166,BOT,sauber,11.0,7.0,5807004000000.0,Finished,Canadian Grand Prix,0.0
+167,ZHO,sauber,10.0,8.0,5808709000000.0,Finished,Canadian Grand Prix,0.0
+168,ALO,alpine,2.0,9.0,5811702000000.0,Finished,Canadian Grand Prix,0.0
+169,STR,aston_martin,17.0,10.0,5819979000000.0,Finished,Canadian Grand Prix,0.0
+170,RIC,mclaren,9.0,11.0,5824804000000.0,Finished,Canadian Grand Prix,0.0
+171,VET,aston_martin,16.0,12.0,5826002000000.0,Finished,Canadian Grand Prix,0.0
+172,ALB,williams,12.0,13.0,5826650000000.0,Finished,Canadian Grand Prix,0.0
+173,GAS,rb,15.0,14.0,5826940000000.0,Finished,Canadian Grand Prix,0.0
+174,NOR,mclaren,14.0,15.0,5833902000000.0,Finished,Canadian Grand Prix,0.0
+175,LAT,williams,18.0,16.0,5841735000000.0,Finished,Canadian Grand Prix,0.0
+176,MAG,haas,5.0,17.0,5849937000000.0,Finished,Canadian Grand Prix,0.0
+177,TSU,rb,20.0,18.0,,Accident,Canadian Grand Prix,0.0
+178,MSC,haas,6.0,19.0,,Engine,Canadian Grand Prix,0.0
+179,PER,red_bull,13.0,20.0,,Gearbox,Canadian Grand Prix,0.0
+180,SAI,ferrari,1.0,1.0,8270311000000.0,Finished,British Grand Prix,0.0443349753694581
+181,PER,red_bull,4.0,2.0,8274090000000.0,Finished,British Grand Prix,0.0443349753694581
+182,HAM,mercedes,5.0,3.0,8276536000000.0,Finished,British Grand Prix,0.0443349753694581
+183,LEC,ferrari,3.0,4.0,8278857000000.0,Finished,British Grand Prix,0.0443349753694581
+184,ALO,alpine,7.0,5.0,8279882000000.0,Finished,British Grand Prix,0.0443349753694581
+185,NOR,mclaren,6.0,6.0,8282254000000.0,Finished,British Grand Prix,0.0443349753694581
+186,VER,red_bull,2.0,7.0,8289088000000.0,Finished,British Grand Prix,0.0443349753694581
+187,MSC,haas,19.0,8.0,8289306000000.0,Finished,British Grand Prix,0.0443349753694581
+188,VET,aston_martin,18.0,9.0,8292667000000.0,Finished,British Grand Prix,0.0443349753694581
+189,MAG,haas,17.0,10.0,8294901000000.0,Finished,British Grand Prix,0.0443349753694581
+190,STR,aston_martin,20.0,11.0,8296458000000.0,Finished,British Grand Prix,0.0443349753694581
+191,LAT,williams,10.0,12.0,8302822000000.0,Finished,British Grand Prix,0.0443349753694581
+192,RIC,mclaren,14.0,13.0,8303128000000.0,Finished,British Grand Prix,0.0443349753694581
+193,TSU,rb,13.0,14.0,8311221000000.0,Finished,British Grand Prix,0.0443349753694581
+194,OCO,alpine,15.0,15.0,,Fuel pump,British Grand Prix,0.0443349753694581
+195,GAS,rb,11.0,16.0,,Collision damage,British Grand Prix,0.0443349753694581
+196,BOT,sauber,12.0,17.0,,Gearbox,British Grand Prix,0.0443349753694581
+197,RUS,mercedes,8.0,18.0,,Collision,British Grand Prix,0.0443349753694581
+198,ZHO,sauber,9.0,19.0,,Collision,British Grand Prix,0.0443349753694581
+199,ALB,williams,16.0,20.0,,Collision,British Grand Prix,0.0443349753694581
+200,LEC,ferrari,2.0,1.0,5064312000000.0,Finished,Austrian Grand Prix,0.0
+201,VER,red_bull,1.0,2.0,5065844000000.0,Finished,Austrian Grand Prix,0.0
+202,HAM,mercedes,8.0,3.0,5105529000000.0,Finished,Austrian Grand Prix,0.0
+203,RUS,mercedes,4.0,4.0,5123284000000.0,Finished,Austrian Grand Prix,0.0
+204,OCO,alpine,6.0,5.0,5132748000000.0,Finished,Austrian Grand Prix,0.0
+205,MSC,haas,9.0,6.0,,+1 Lap,Austrian Grand Prix,0.0
+206,NOR,mclaren,10.0,7.0,,+1 Lap,Austrian Grand Prix,0.0
+207,MAG,haas,7.0,8.0,,+1 Lap,Austrian Grand Prix,0.0
+208,RIC,mclaren,11.0,9.0,,+1 Lap,Austrian Grand Prix,0.0
+209,ALO,alpine,19.0,10.0,,+1 Lap,Austrian Grand Prix,0.0
+210,BOT,sauber,0.0,11.0,,+1 Lap,Austrian Grand Prix,0.0
+211,ALB,williams,15.0,12.0,,+1 Lap,Austrian Grand Prix,0.0
+212,STR,aston_martin,12.0,13.0,,+1 Lap,Austrian Grand Prix,0.0
+213,ZHO,sauber,13.0,14.0,,+1 Lap,Austrian Grand Prix,0.0
+214,GAS,rb,14.0,15.0,,+1 Lap,Austrian Grand Prix,0.0
+215,TSU,rb,16.0,16.0,,+1 Lap,Austrian Grand Prix,0.0
+216,VET,aston_martin,18.0,17.0,,+1 Lap,Austrian Grand Prix,0.0
+217,SAI,ferrari,3.0,18.0,,Power Unit,Austrian Grand Prix,0.0
+218,LAT,williams,17.0,19.0,,Undertray,Austrian Grand Prix,0.0
+219,PER,red_bull,5.0,20.0,,Collision damage,Austrian Grand Prix,0.0
+220,VER,red_bull,2.0,1.0,5402112000000.0,Finished,French Grand Prix,0.0
+221,HAM,mercedes,4.0,2.0,5412699000000.0,Finished,French Grand Prix,0.0
+222,RUS,mercedes,6.0,3.0,5418607000000.0,Finished,French Grand Prix,0.0
+223,PER,red_bull,3.0,4.0,5419422000000.0,Finished,French Grand Prix,0.0
+224,SAI,ferrari,19.0,5.0,5430984000000.0,Finished,French Grand Prix,0.0
+225,ALO,alpine,7.0,6.0,5444991000000.0,Finished,French Grand Prix,0.0
+226,NOR,mclaren,5.0,7.0,5454138000000.0,Finished,French Grand Prix,0.0
+227,OCO,alpine,10.0,8.0,5459071000000.0,Finished,French Grand Prix,0.0
+228,RIC,mclaren,9.0,9.0,5462484000000.0,Finished,French Grand Prix,0.0
+229,STR,aston_martin,15.0,10.0,5464661000000.0,Finished,French Grand Prix,0.0
+230,VET,aston_martin,12.0,11.0,5466606000000.0,Finished,French Grand Prix,0.0
+231,GAS,rb,14.0,12.0,5467560000000.0,Finished,French Grand Prix,0.0
+232,ALB,williams,13.0,13.0,5470677000000.0,Finished,French Grand Prix,0.0
+233,BOT,sauber,11.0,14.0,5478778000000.0,Finished,French Grand Prix,0.0
+234,MSC,haas,17.0,15.0,5482506000000.0,Finished,French Grand Prix,0.0
+235,ZHO,sauber,16.0,16.0,,+6 Laps,French Grand Prix,0.0
+236,LAT,williams,18.0,17.0,,Collision damage,French Grand Prix,0.0
+237,MAG,haas,20.0,18.0,,Collision damage,French Grand Prix,0.0
+238,LEC,ferrari,1.0,19.0,,Accident,French Grand Prix,0.0
+239,TSU,rb,8.0,20.0,,Undertray,French Grand Prix,0.0
+240,VER,red_bull,10.0,1.0,5975912000000.0,Finished,Hungarian Grand Prix,0.2754491017964072
+241,HAM,mercedes,7.0,2.0,5983746000000.0,Finished,Hungarian Grand Prix,0.2754491017964072
+242,RUS,mercedes,1.0,3.0,5988249000000.0,Finished,Hungarian Grand Prix,0.2754491017964072
+243,SAI,ferrari,2.0,4.0,5990491000000.0,Finished,Hungarian Grand Prix,0.2754491017964072
+244,PER,red_bull,11.0,5.0,5991600000000.0,Finished,Hungarian Grand Prix,0.2754491017964072
+245,LEC,ferrari,3.0,6.0,5991959000000.0,Finished,Hungarian Grand Prix,0.2754491017964072
+246,NOR,mclaren,4.0,7.0,6054212000000.0,Finished,Hungarian Grand Prix,0.2754491017964072
+247,ALO,alpine,6.0,8.0,,+1 Lap,Hungarian Grand Prix,0.2754491017964072
+248,OCO,alpine,5.0,9.0,,+1 Lap,Hungarian Grand Prix,0.2754491017964072
+249,VET,aston_martin,18.0,10.0,,+1 Lap,Hungarian Grand Prix,0.2754491017964072
+250,STR,aston_martin,14.0,11.0,,+1 Lap,Hungarian Grand Prix,0.2754491017964072
+251,GAS,rb,0.0,12.0,,+1 Lap,Hungarian Grand Prix,0.2754491017964072
+252,ZHO,sauber,12.0,13.0,,+1 Lap,Hungarian Grand Prix,0.2754491017964072
+253,MSC,haas,15.0,14.0,,+1 Lap,Hungarian Grand Prix,0.2754491017964072
+254,RIC,mclaren,9.0,15.0,,+1 Lap,Hungarian Grand Prix,0.2754491017964072
+255,MAG,haas,13.0,16.0,,+1 Lap,Hungarian Grand Prix,0.2754491017964072
+256,ALB,williams,17.0,17.0,,+1 Lap,Hungarian Grand Prix,0.2754491017964072
+257,LAT,williams,19.0,18.0,,+1 Lap,Hungarian Grand Prix,0.2754491017964072
+258,TSU,rb,16.0,19.0,,+2 Laps,Hungarian Grand Prix,0.2754491017964072
+259,BOT,sauber,8.0,20.0,,Power Unit,Hungarian Grand Prix,0.2754491017964072
+260,VER,red_bull,14.0,1.0,5152894000000.0,Finished,Belgian Grand Prix,0.0
+261,PER,red_bull,2.0,2.0,5170735000000.0,Finished,Belgian Grand Prix,0.0
+262,SAI,ferrari,1.0,3.0,5179780000000.0,Finished,Belgian Grand Prix,0.0
+263,RUS,mercedes,5.0,4.0,5182034000000.0,Finished,Belgian Grand Prix,0.0
+264,ALO,alpine,3.0,5.0,5226150000000.0,Finished,Belgian Grand Prix,0.0
+265,LEC,ferrari,15.0,6.0,5227830000000.0,Finished,Belgian Grand Prix,0.0
+266,OCO,alpine,16.0,7.0,5228534000000.0,Finished,Belgian Grand Prix,0.0
+267,VET,aston_martin,10.0,8.0,5231001000000.0,Finished,Belgian Grand Prix,0.0
+268,GAS,rb,0.0,9.0,5245075000000.0,Finished,Belgian Grand Prix,0.0
+269,ALB,williams,6.0,10.0,5254794000000.0,Finished,Belgian Grand Prix,0.0
+270,STR,aston_martin,9.0,11.0,5255972000000.0,Finished,Belgian Grand Prix,0.0
+271,NOR,mclaren,17.0,12.0,5257633000000.0,Finished,Belgian Grand Prix,0.0
+272,TSU,rb,0.0,13.0,5258111000000.0,Finished,Belgian Grand Prix,0.0
+273,ZHO,sauber,18.0,14.0,5259146000000.0,Finished,Belgian Grand Prix,0.0
+274,RIC,mclaren,7.0,15.0,5260057000000.0,Finished,Belgian Grand Prix,0.0
+275,MAG,haas,12.0,16.0,,+1 Lap,Belgian Grand Prix,0.0
+276,MSC,haas,19.0,17.0,,+1 Lap,Belgian Grand Prix,0.0
+277,LAT,williams,11.0,18.0,,+1 Lap,Belgian Grand Prix,0.0
+278,BOT,sauber,13.0,19.0,,Accident,Belgian Grand Prix,0.0
+279,HAM,mercedes,4.0,20.0,,Collision damage,Belgian Grand Prix,0.0
+280,VER,red_bull,1.0,1.0,5802773000000.0,Finished,Dutch Grand Prix,0.0
+281,RUS,mercedes,6.0,2.0,5806844000000.0,Finished,Dutch Grand Prix,0.0
+282,LEC,ferrari,2.0,3.0,5813702000000.0,Finished,Dutch Grand Prix,0.0
+283,HAM,mercedes,4.0,4.0,5815789000000.0,Finished,Dutch Grand Prix,0.0
+284,PER,red_bull,5.0,5.0,5820941000000.0,Finished,Dutch Grand Prix,0.0
+285,ALO,alpine,13.0,6.0,5821527000000.0,Finished,Dutch Grand Prix,0.0
+286,NOR,mclaren,7.0,7.0,5822079000000.0,Finished,Dutch Grand Prix,0.0
+287,SAI,ferrari,3.0,8.0,5823689000000.0,Finished,Dutch Grand Prix,0.0
+288,OCO,alpine,12.0,9.0,5823890000000.0,Finished,Dutch Grand Prix,0.0
+289,STR,aston_martin,10.0,10.0,5825232000000.0,Finished,Dutch Grand Prix,0.0
+290,GAS,rb,11.0,11.0,5829782000000.0,Finished,Dutch Grand Prix,0.0
+291,ALB,williams,15.0,12.0,5833163000000.0,Finished,Dutch Grand Prix,0.0
+292,MSC,haas,8.0,13.0,5835768000000.0,Finished,Dutch Grand Prix,0.0
+293,VET,aston_martin,19.0,14.0,5838780000000.0,Finished,Dutch Grand Prix,0.0
+294,MAG,haas,18.0,15.0,5839642000000.0,Finished,Dutch Grand Prix,0.0
+295,ZHO,sauber,14.0,16.0,5840093000000.0,Finished,Dutch Grand Prix,0.0
+296,RIC,mclaren,17.0,17.0,5840537000000.0,Finished,Dutch Grand Prix,0.0
+297,LAT,williams,20.0,18.0,,+1 Lap,Dutch Grand Prix,0.0
+298,BOT,sauber,16.0,19.0,,Engine,Dutch Grand Prix,0.0
+299,TSU,rb,9.0,20.0,,Differential,Dutch Grand Prix,0.0
+300,VER,red_bull,7.0,1.0,4827511000000.0,Finished,Italian Grand Prix,0.0
+301,LEC,ferrari,1.0,2.0,4829957000000.0,Finished,Italian Grand Prix,0.0
+302,RUS,mercedes,2.0,3.0,4830916000000.0,Finished,Italian Grand Prix,0.0
+303,SAI,ferrari,18.0,4.0,4832572000000.0,Finished,Italian Grand Prix,0.0
+304,HAM,mercedes,19.0,5.0,4832891000000.0,Finished,Italian Grand Prix,0.0
+305,PER,red_bull,13.0,6.0,4833602000000.0,Finished,Italian Grand Prix,0.0
+306,NOR,mclaren,3.0,7.0,4833718000000.0,Finished,Italian Grand Prix,0.0
+307,GAS,rb,5.0,8.0,4833907000000.0,Finished,Italian Grand Prix,0.0
+308,DEV,williams,8.0,9.0,4834633000000.0,Finished,Italian Grand Prix,0.0
+309,ZHO,sauber,9.0,10.0,4835421000000.0,Finished,Italian Grand Prix,0.0
+310,OCO,alpine,14.0,11.0,4835834000000.0,Finished,Italian Grand Prix,0.0
+311,MSC,haas,17.0,12.0,4836060000000.0,Finished,Italian Grand Prix,0.0
+312,BOT,sauber,15.0,13.0,,+1 Lap,Italian Grand Prix,0.0
+313,TSU,rb,20.0,14.0,,+1 Lap,Italian Grand Prix,0.0
+314,LAT,williams,10.0,15.0,,+1 Lap,Italian Grand Prix,0.0
+315,MAG,haas,16.0,16.0,,+1 Lap,Italian Grand Prix,0.0
+316,RIC,mclaren,4.0,17.0,,Oil leak,Italian Grand Prix,0.0
+317,STR,aston_martin,12.0,18.0,,Engine,Italian Grand Prix,0.0
+318,ALO,alpine,6.0,19.0,,Water pressure,Italian Grand Prix,0.0
+319,VET,aston_martin,11.0,20.0,,Engine,Italian Grand Prix,0.0
+320,PER,red_bull,2.0,1.0,7340238000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+321,LEC,ferrari,1.0,2.0,7342833000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+322,SAI,ferrari,4.0,3.0,7350543000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+323,NOR,mclaren,6.0,4.0,7361371000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+324,RIC,mclaren,16.0,5.0,7393520000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+325,STR,aston_martin,11.0,6.0,7396568000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+326,VER,red_bull,8.0,7.0,7399063000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+327,VET,aston_martin,13.0,8.0,7400270000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+328,HAM,mercedes,3.0,9.0,7401753000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+329,GAS,rb,7.0,10.0,7409814000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+330,BOT,sauber,15.0,11.0,7429082000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+331,MAG,haas,9.0,12.0,7432848000000.0,Finished,Singapore Grand Prix,0.1803921568627451
+332,MSC,haas,12.0,13.0,,+1 Lap,Singapore Grand Prix,0.1803921568627451
+333,RUS,mercedes,0.0,14.0,,+2 Laps,Singapore Grand Prix,0.1803921568627451
+334,TSU,rb,10.0,15.0,,Accident,Singapore Grand Prix,0.1803921568627451
+335,OCO,alpine,17.0,16.0,,Engine,Singapore Grand Prix,0.1803921568627451
+336,ALB,williams,18.0,17.0,,Collision damage,Singapore Grand Prix,0.1803921568627451
+337,ALO,alpine,5.0,18.0,,Engine,Singapore Grand Prix,0.1803921568627451
+338,LAT,williams,19.0,19.0,,Collision damage,Singapore Grand Prix,0.1803921568627451
+339,ZHO,sauber,14.0,20.0,,Collision,Singapore Grand Prix,0.1803921568627451
+340,VER,red_bull,1.0,1.0,10904004000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+341,PER,red_bull,4.0,2.0,10931070000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+342,LEC,ferrari,2.0,3.0,10935767000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+343,OCO,alpine,5.0,4.0,10943689000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+344,HAM,mercedes,6.0,5.0,10944330000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+345,VET,aston_martin,9.0,6.0,10950362000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+346,ALO,alpine,7.0,7.0,10950373000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+347,RUS,mercedes,8.0,8.0,10951665000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+348,LAT,williams,20.0,9.0,10974147000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+349,NOR,mclaren,10.0,10.0,10974786000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+350,RIC,mclaren,11.0,11.0,10976881000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+351,STR,aston_martin,19.0,12.0,10977908000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+352,TSU,rb,13.0,13.0,10979603000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+353,MAG,haas,18.0,14.0,10990020000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+354,BOT,sauber,12.0,15.0,10990500000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+355,ZHO,sauber,14.0,16.0,10991047000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+356,MSC,haas,15.0,17.0,10996527000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+357,GAS,rb,17.0,18.0,11012095000000.0,Finished,Japanese Grand Prix,0.9803921568627452
+358,SAI,ferrari,3.0,19.0,,Accident,Japanese Grand Prix,0.9803921568627452
+359,ALB,williams,16.0,20.0,,Hydraulics,Japanese Grand Prix,0.9803921568627452
+360,VER,red_bull,2.0,1.0,6131687000000.0,Finished,United States Grand Prix,0.0
+361,HAM,mercedes,3.0,2.0,6136710000000.0,Finished,United States Grand Prix,0.0
+362,LEC,ferrari,12.0,3.0,6139188000000.0,Finished,United States Grand Prix,0.0
+363,PER,red_bull,9.0,4.0,6139980000000.0,Finished,United States Grand Prix,0.0
+364,RUS,mercedes,4.0,5.0,6176502000000.0,Finished,United States Grand Prix,0.0
+365,NOR,mclaren,6.0,6.0,6185472000000.0,Finished,United States Grand Prix,0.0
+366,ALO,alpine,14.0,7.0,6186765000000.0,Finished,United States Grand Prix,0.0
+367,VET,aston_martin,10.0,8.0,6197041000000.0,Finished,United States Grand Prix,0.0
+368,MAG,haas,13.0,9.0,6197521000000.0,Finished,United States Grand Prix,0.0
+369,TSU,rb,19.0,10.0,6202606000000.0,Finished,United States Grand Prix,0.0
+370,OCO,alpine,0.0,11.0,6204562000000.0,Finished,United States Grand Prix,0.0
+371,ZHO,sauber,18.0,12.0,6207851000000.0,Finished,United States Grand Prix,0.0
+372,ALB,williams,8.0,13.0,6211744000000.0,Finished,United States Grand Prix,0.0
+373,GAS,rb,11.0,14.0,6213450000000.0,Finished,United States Grand Prix,0.0
+374,MSC,haas,16.0,15.0,6216177000000.0,Finished,United States Grand Prix,0.0
+375,RIC,mclaren,15.0,16.0,6222174000000.0,Finished,United States Grand Prix,0.0
+376,LAT,williams,17.0,17.0,6235275000000.0,Finished,United States Grand Prix,0.0
+377,STR,aston_martin,5.0,18.0,,Collision,United States Grand Prix,0.0
+378,BOT,sauber,7.0,19.0,,Spun off,United States Grand Prix,0.0
+379,SAI,ferrari,1.0,20.0,,Collision damage,United States Grand Prix,0.0
+380,VER,red_bull,1.0,1.0,5916729000000.0,Finished,Mexico City Grand Prix,0.0
+381,HAM,mercedes,3.0,2.0,5931915000000.0,Finished,Mexico City Grand Prix,0.0
+382,PER,red_bull,4.0,3.0,5934826000000.0,Finished,Mexico City Grand Prix,0.0
+383,RUS,mercedes,2.0,4.0,5966160000000.0,Finished,Mexico City Grand Prix,0.0
+384,SAI,ferrari,5.0,5.0,5974852000000.0,Finished,Mexico City Grand Prix,0.0
+385,LEC,ferrari,7.0,6.0,5985503000000.0,Finished,Mexico City Grand Prix,0.0
+386,RIC,mclaren,11.0,7.0,,+1 Lap,Mexico City Grand Prix,0.0
+387,OCO,alpine,10.0,8.0,,+1 Lap,Mexico City Grand Prix,0.0
+388,NOR,mclaren,8.0,9.0,,+1 Lap,Mexico City Grand Prix,0.0
+389,BOT,sauber,6.0,10.0,,+1 Lap,Mexico City Grand Prix,0.0
+390,GAS,rb,14.0,11.0,,+1 Lap,Mexico City Grand Prix,0.0
+391,ALB,williams,17.0,12.0,,+1 Lap,Mexico City Grand Prix,0.0
+392,ZHO,sauber,12.0,13.0,,+1 Lap,Mexico City Grand Prix,0.0
+393,VET,aston_martin,16.0,14.0,,+1 Lap,Mexico City Grand Prix,0.0
+394,STR,aston_martin,20.0,15.0,,+1 Lap,Mexico City Grand Prix,0.0
+395,MSC,haas,15.0,16.0,,+1 Lap,Mexico City Grand Prix,0.0
+396,MAG,haas,19.0,17.0,,+1 Lap,Mexico City Grand Prix,0.0
+397,LAT,williams,18.0,18.0,,+2 Laps,Mexico City Grand Prix,0.0
+398,ALO,alpine,9.0,19.0,,Engine,Mexico City Grand Prix,0.0
+399,TSU,rb,13.0,20.0,,Collision damage,Mexico City Grand Prix,0.0
+400,RUS,mercedes,1.0,1.0,5914044000000.0,Finished,São Paulo Grand Prix,0.0
+401,HAM,mercedes,2.0,2.0,5915573000000.0,Finished,São Paulo Grand Prix,0.0
+402,SAI,ferrari,7.0,3.0,5918095000000.0,Finished,São Paulo Grand Prix,0.0
+403,LEC,ferrari,5.0,4.0,5922485000000.0,Finished,São Paulo Grand Prix,0.0
+404,ALO,alpine,17.0,5.0,5923605000000.0,Finished,São Paulo Grand Prix,0.0
+405,VER,red_bull,3.0,6.0,5924100000000.0,Finished,São Paulo Grand Prix,0.0
+406,PER,red_bull,4.0,7.0,5928124000000.0,Finished,São Paulo Grand Prix,0.0
+407,OCO,alpine,16.0,8.0,5932734000000.0,Finished,São Paulo Grand Prix,0.0
+408,BOT,sauber,14.0,9.0,5936596000000.0,Finished,São Paulo Grand Prix,0.0
+409,STR,aston_martin,15.0,10.0,5937596000000.0,Finished,São Paulo Grand Prix,0.0
+410,VET,aston_martin,9.0,11.0,5940227000000.0,Finished,São Paulo Grand Prix,0.0
+411,ZHO,sauber,13.0,12.0,5943369000000.0,Finished,São Paulo Grand Prix,0.0
+412,MSC,haas,12.0,13.0,5943943000000.0,Finished,São Paulo Grand Prix,0.0
+413,GAS,rb,10.0,14.0,5945911000000.0,Finished,São Paulo Grand Prix,0.0
+414,ALB,williams,19.0,15.0,5950060000000.0,Finished,São Paulo Grand Prix,0.0
+415,LAT,williams,18.0,16.0,5951082000000.0,Finished,São Paulo Grand Prix,0.0
+416,TSU,rb,0.0,17.0,,+1 Lap,São Paulo Grand Prix,0.0
+417,NOR,mclaren,6.0,18.0,,Gearbox,São Paulo Grand Prix,0.0
+418,MAG,haas,8.0,19.0,,Collision,São Paulo Grand Prix,0.0
+419,RIC,mclaren,11.0,20.0,,Collision,São Paulo Grand Prix,0.0
+420,VER,red_bull,1.0,1.0,5265914000000.0,Finished,Abu Dhabi Grand Prix,0.0
+421,LEC,ferrari,3.0,2.0,5274685000000.0,Finished,Abu Dhabi Grand Prix,0.0
+422,PER,red_bull,2.0,3.0,5276007000000.0,Finished,Abu Dhabi Grand Prix,0.0
+423,SAI,ferrari,4.0,4.0,5290806000000.0,Finished,Abu Dhabi Grand Prix,0.0
+424,RUS,mercedes,6.0,5.0,5301802000000.0,Finished,Abu Dhabi Grand Prix,0.0
+425,NOR,mclaren,7.0,6.0,5322148000000.0,Finished,Abu Dhabi Grand Prix,0.0
+426,OCO,alpine,8.0,7.0,5323154000000.0,Finished,Abu Dhabi Grand Prix,0.0
+427,STR,aston_martin,14.0,8.0,5342845000000.0,Finished,Abu Dhabi Grand Prix,0.0
+428,RIC,mclaren,13.0,9.0,5349182000000.0,Finished,Abu Dhabi Grand Prix,0.0
+429,VET,aston_martin,9.0,10.0,5349812000000.0,Finished,Abu Dhabi Grand Prix,0.0
+430,TSU,rb,11.0,11.0,5355285000000.0,Finished,Abu Dhabi Grand Prix,0.0
+431,ZHO,sauber,15.0,12.0,,+1 Lap,Abu Dhabi Grand Prix,0.0
+432,ALB,williams,19.0,13.0,,+1 Lap,Abu Dhabi Grand Prix,0.0
+433,GAS,rb,17.0,14.0,,+1 Lap,Abu Dhabi Grand Prix,0.0
+434,BOT,sauber,18.0,15.0,,+1 Lap,Abu Dhabi Grand Prix,0.0
+435,MSC,haas,12.0,16.0,,+1 Lap,Abu Dhabi Grand Prix,0.0
+436,MAG,haas,16.0,17.0,,+1 Lap,Abu Dhabi Grand Prix,0.0
+437,HAM,mercedes,5.0,18.0,,Hydraulics,Abu Dhabi Grand Prix,0.0
+438,LAT,williams,20.0,19.0,,Collision damage,Abu Dhabi Grand Prix,0.0
+439,ALO,alpine,10.0,20.0,,Water leak,Abu Dhabi Grand Prix,0.0
+440,VER,red_bull,1.0,1.0,5636736000000.0,Finished,Bahrain Grand Prix,0.0
+441,PER,red_bull,2.0,2.0,5648723000000.0,Finished,Bahrain Grand Prix,0.0
+442,ALO,aston_martin,5.0,3.0,5675373000000.0,Finished,Bahrain Grand Prix,0.0
+443,SAI,ferrari,4.0,4.0,5684788000000.0,Finished,Bahrain Grand Prix,0.0
+444,HAM,mercedes,7.0,5.0,5687713000000.0,Finished,Bahrain Grand Prix,0.0
+445,STR,aston_martin,8.0,6.0,5691238000000.0,Finished,Bahrain Grand Prix,0.0
+446,RUS,mercedes,6.0,7.0,5692609000000.0,Finished,Bahrain Grand Prix,0.0
+447,BOT,sauber,12.0,8.0,5709383000000.0,Finished,Bahrain Grand Prix,0.0
+448,GAS,alpine,20.0,9.0,5710489000000.0,Finished,Bahrain Grand Prix,0.0
+449,ALB,williams,15.0,10.0,5726510000000.0,Finished,Bahrain Grand Prix,0.0
+450,TSU,rb,14.0,11.0,5727606000000.0,Finished,Bahrain Grand Prix,0.0
+451,SAR,williams,16.0,12.0,5728742000000.0,Lapped,Bahrain Grand Prix,0.0
+452,MAG,haas,17.0,13.0,5744363000000.0,Lapped,Bahrain Grand Prix,0.0
+453,DEV,rb,19.0,14.0,5750129000000.0,Lapped,Bahrain Grand Prix,0.0
+454,HUL,haas,10.0,15.0,5766517000000.0,Lapped,Bahrain Grand Prix,0.0
+455,ZHO,sauber,13.0,16.0,5767255000000.0,Lapped,Bahrain Grand Prix,0.0
+456,NOR,mclaren,11.0,17.0,5773891000000.0,Lapped,Bahrain Grand Prix,0.0
+457,OCO,alpine,9.0,18.0,,Retired,Bahrain Grand Prix,0.0
+458,LEC,ferrari,3.0,19.0,,Retired,Bahrain Grand Prix,0.0
+459,PIA,mclaren,18.0,20.0,,Retired,Bahrain Grand Prix,0.0
+460,PER,red_bull,1.0,1.0,4874894000000.0,Finished,Saudi Arabian Grand Prix,0.0
+461,VER,red_bull,15.0,2.0,4880249000000.0,Finished,Saudi Arabian Grand Prix,0.0
+462,ALO,aston_martin,2.0,3.0,4895622000000.0,Finished,Saudi Arabian Grand Prix,0.0
+463,RUS,mercedes,3.0,4.0,4900760000000.0,Finished,Saudi Arabian Grand Prix,0.0
+464,HAM,mercedes,7.0,5.0,4905959000000.0,Finished,Saudi Arabian Grand Prix,0.0
+465,SAI,ferrari,4.0,6.0,4910770000000.0,Finished,Saudi Arabian Grand Prix,0.0
+466,LEC,ferrari,12.0,7.0,4918056000000.0,Finished,Saudi Arabian Grand Prix,0.0
+467,OCO,alpine,6.0,8.0,4927726000000.0,Finished,Saudi Arabian Grand Prix,0.0
+468,GAS,alpine,9.0,9.0,4929641000000.0,Finished,Saudi Arabian Grand Prix,0.0
+469,MAG,haas,13.0,10.0,4939720000000.0,Finished,Saudi Arabian Grand Prix,0.0
+470,TSU,rb,16.0,11.0,4942388000000.0,Finished,Saudi Arabian Grand Prix,0.0
+471,HUL,haas,10.0,12.0,4945482000000.0,Finished,Saudi Arabian Grand Prix,0.0
+472,ZHO,sauber,11.0,13.0,4950954000000.0,Finished,Saudi Arabian Grand Prix,0.0
+473,DEV,rb,18.0,14.0,4952372000000.0,Finished,Saudi Arabian Grand Prix,0.0
+474,PIA,mclaren,8.0,15.0,4959915000000.0,Finished,Saudi Arabian Grand Prix,0.0
+475,SAR,williams,20.0,16.0,4961187000000.0,Finished,Saudi Arabian Grand Prix,0.0
+476,NOR,mclaren,19.0,17.0,4961339000000.0,Finished,Saudi Arabian Grand Prix,0.0
+477,BOT,sauber,14.0,18.0,4990923000000.0,Lapped,Saudi Arabian Grand Prix,0.0
+478,ALB,williams,17.0,19.0,,Retired,Saudi Arabian Grand Prix,0.0
+479,STR,aston_martin,5.0,20.0,,Retired,Saudi Arabian Grand Prix,0.0
+480,VER,red_bull,1.0,1.0,9158371000000.0,Finished,Australian Grand Prix,0.0
+481,HAM,mercedes,3.0,2.0,9158550000000.0,Finished,Australian Grand Prix,0.0
+482,ALO,aston_martin,4.0,3.0,9159140000000.0,Finished,Australian Grand Prix,0.0
+483,STR,aston_martin,6.0,4.0,9161453000000.0,Finished,Australian Grand Prix,0.0
+484,PER,red_bull,20.0,5.0,9161691000000.0,Finished,Australian Grand Prix,0.0
+485,NOR,mclaren,13.0,6.0,9162072000000.0,Finished,Australian Grand Prix,0.0
+486,HUL,haas,10.0,7.0,9163310000000.0,Finished,Australian Grand Prix,0.0
+487,PIA,mclaren,16.0,8.0,9163753000000.0,Finished,Australian Grand Prix,0.0
+488,ZHO,sauber,17.0,9.0,9164084000000.0,Finished,Australian Grand Prix,0.0
+489,TSU,rb,12.0,10.0,9164423000000.0,Finished,Australian Grand Prix,0.0
+490,BOT,sauber,19.0,11.0,9164884000000.0,Finished,Australian Grand Prix,0.0
+491,SAI,ferrari,5.0,12.0,9164965000000.0,Finished,Australian Grand Prix,0.0
+492,GAS,alpine,9.0,13.0,,Finished,Australian Grand Prix,0.0
+493,OCO,alpine,11.0,14.0,,Finished,Australian Grand Prix,0.0
+494,DEV,rb,15.0,15.0,,Finished,Australian Grand Prix,0.0
+495,SAR,williams,18.0,16.0,,Finished,Australian Grand Prix,0.0
+496,MAG,haas,14.0,17.0,,Finished,Australian Grand Prix,0.0
+497,RUS,mercedes,2.0,18.0,,Retired,Australian Grand Prix,0.0
+498,ALB,williams,8.0,19.0,,Retired,Australian Grand Prix,0.0
+499,LEC,ferrari,7.0,20.0,,Retired,Australian Grand Prix,0.0
+500,PER,red_bull,3.0,1.0,5562436000000.0,Finished,Azerbaijan Grand Prix,0.0
+501,VER,red_bull,2.0,2.0,5564573000000.0,Finished,Azerbaijan Grand Prix,0.0
+502,LEC,ferrari,1.0,3.0,5583653000000.0,Finished,Azerbaijan Grand Prix,0.0
+503,ALO,aston_martin,6.0,4.0,5584460000000.0,Finished,Azerbaijan Grand Prix,0.0
+504,SAI,ferrari,4.0,5.0,5607927000000.0,Finished,Azerbaijan Grand Prix,0.0
+505,HAM,mercedes,5.0,6.0,5608581000000.0,Finished,Azerbaijan Grand Prix,0.0
+506,STR,aston_martin,9.0,7.0,5614053000000.0,Finished,Azerbaijan Grand Prix,0.0
+507,RUS,mercedes,11.0,8.0,5636676000000.0,Finished,Azerbaijan Grand Prix,0.0
+508,NOR,mclaren,7.0,9.0,5642812000000.0,Finished,Azerbaijan Grand Prix,0.0
+509,TSU,rb,8.0,10.0,5646298000000.0,Finished,Azerbaijan Grand Prix,0.0
+510,PIA,mclaren,10.0,11.0,5648937000000.0,Finished,Azerbaijan Grand Prix,0.0
+511,ALB,williams,12.0,12.0,5651059000000.0,Finished,Azerbaijan Grand Prix,0.0
+512,MAG,haas,16.0,13.0,5652165000000.0,Finished,Azerbaijan Grand Prix,0.0
+513,GAS,alpine,17.0,14.0,5653768000000.0,Finished,Azerbaijan Grand Prix,0.0
+514,OCO,alpine,19.0,15.0,5660230000000.0,Finished,Azerbaijan Grand Prix,0.0
+515,SAR,williams,14.0,16.0,5663379000000.0,Finished,Azerbaijan Grand Prix,0.0
+516,HUL,haas,20.0,17.0,5673316000000.0,Lapped,Azerbaijan Grand Prix,0.0
+517,BOT,sauber,13.0,18.0,5682477000000.0,Lapped,Azerbaijan Grand Prix,0.0
+518,ZHO,sauber,15.0,19.0,,Retired,Azerbaijan Grand Prix,0.0
+519,DEV,rb,18.0,20.0,,Retired,Azerbaijan Grand Prix,0.0
+520,VER,red_bull,9.0,1.0,5258241000000.0,Finished,Miami Grand Prix,0.0
+521,PER,red_bull,1.0,2.0,5263625000000.0,Finished,Miami Grand Prix,0.0
+522,ALO,aston_martin,2.0,3.0,5284546000000.0,Finished,Miami Grand Prix,0.0
+523,RUS,mercedes,6.0,4.0,5291470000000.0,Finished,Miami Grand Prix,0.0
+524,SAI,ferrari,3.0,5.0,5300752000000.0,Finished,Miami Grand Prix,0.0
+525,HAM,mercedes,13.0,6.0,5309490000000.0,Finished,Miami Grand Prix,0.0
+526,LEC,ferrari,7.0,7.0,5311229000000.0,Finished,Miami Grand Prix,0.0
+527,GAS,alpine,5.0,8.0,5313911000000.0,Finished,Miami Grand Prix,0.0
+528,OCO,alpine,8.0,9.0,5316364000000.0,Finished,Miami Grand Prix,0.0
+529,MAG,haas,4.0,10.0,5321186000000.0,Finished,Miami Grand Prix,0.0
+530,TSU,rb,17.0,11.0,5322550000000.0,Finished,Miami Grand Prix,0.0
+531,STR,aston_martin,18.0,12.0,5322995000000.0,Finished,Miami Grand Prix,0.0
+532,BOT,sauber,10.0,13.0,5329878000000.0,Finished,Miami Grand Prix,0.0
+533,ALB,williams,11.0,14.0,5331102000000.0,Finished,Miami Grand Prix,0.0
+534,HUL,haas,12.0,15.0,5333191000000.0,Finished,Miami Grand Prix,0.0
+535,ZHO,sauber,14.0,16.0,5336681000000.0,Finished,Miami Grand Prix,0.0
+536,NOR,mclaren,16.0,17.0,5345958000000.0,Finished,Miami Grand Prix,0.0
+537,DEV,rb,15.0,18.0,5347190000000.0,Finished,Miami Grand Prix,0.0
+538,PIA,mclaren,19.0,19.0,5367700000000.0,Lapped,Miami Grand Prix,0.0
+539,SAR,williams,20.0,20.0,5381578000000.0,Lapped,Miami Grand Prix,0.0
+540,VER,red_bull,1.0,1.0,6531980000000.0,Finished,Monaco Grand Prix,0.1477272727272727
+541,ALO,aston_martin,2.0,2.0,6559901000000.0,Finished,Monaco Grand Prix,0.1477272727272727
+542,OCO,alpine,3.0,3.0,6568970000000.0,Finished,Monaco Grand Prix,0.1477272727272727
+543,HAM,mercedes,5.0,4.0,6571042000000.0,Finished,Monaco Grand Prix,0.1477272727272727
+544,RUS,mercedes,8.0,5.0,6588264000000.0,Finished,Monaco Grand Prix,0.1477272727272727
+545,LEC,ferrari,6.0,6.0,6593870000000.0,Finished,Monaco Grand Prix,0.1477272727272727
+546,GAS,alpine,7.0,7.0,6594342000000.0,Finished,Monaco Grand Prix,0.1477272727272727
+547,SAI,ferrari,4.0,8.0,6595371000000.0,Finished,Monaco Grand Prix,0.1477272727272727
+548,NOR,mclaren,10.0,9.0,6599432000000.0,Lapped,Monaco Grand Prix,0.1477272727272727
+549,PIA,mclaren,11.0,10.0,6609330000000.0,Lapped,Monaco Grand Prix,0.1477272727272727
+550,BOT,sauber,15.0,11.0,6624334000000.0,Lapped,Monaco Grand Prix,0.1477272727272727
+551,DEV,rb,12.0,12.0,6652688000000.0,Lapped,Monaco Grand Prix,0.1477272727272727
+552,ZHO,sauber,19.0,13.0,6667223000000.0,Lapped,Monaco Grand Prix,0.1477272727272727
+553,ALB,williams,13.0,14.0,6674581000000.0,Lapped,Monaco Grand Prix,0.1477272727272727
+554,TSU,rb,9.0,15.0,6682126000000.0,Lapped,Monaco Grand Prix,0.1477272727272727
+555,PER,red_bull,20.0,16.0,6723605000000.0,Lapped,Monaco Grand Prix,0.1477272727272727
+556,HUL,haas,18.0,17.0,6733087000000.0,Lapped,Monaco Grand Prix,0.1477272727272727
+557,SAR,williams,16.0,18.0,6752564000000.0,Lapped,Monaco Grand Prix,0.1477272727272727
+558,MAG,haas,17.0,19.0,,Finished,Monaco Grand Prix,0.1477272727272727
+559,STR,aston_martin,14.0,20.0,,Retired,Monaco Grand Prix,0.1477272727272727
+560,VER,red_bull,1.0,1.0,5277940000000.0,Finished,Spanish Grand Prix,0.0
+561,HAM,mercedes,4.0,2.0,5302030000000.0,Finished,Spanish Grand Prix,0.0
+562,RUS,mercedes,12.0,3.0,5310329000000.0,Finished,Spanish Grand Prix,0.0
+563,PER,red_bull,11.0,4.0,5313752000000.0,Finished,Spanish Grand Prix,0.0
+564,SAI,ferrari,2.0,5.0,5323638000000.0,Finished,Spanish Grand Prix,0.0
+565,STR,aston_martin,5.0,6.0,5341260000000.0,Finished,Spanish Grand Prix,0.0
+566,ALO,aston_martin,8.0,7.0,5342067000000.0,Finished,Spanish Grand Prix,0.0
+567,OCO,alpine,6.0,8.0,5347182000000.0,Finished,Spanish Grand Prix,0.0
+568,ZHO,sauber,13.0,9.0,5349818000000.0,Finished,Spanish Grand Prix,0.0
+569,GAS,alpine,10.0,10.0,5351470000000.0,Finished,Spanish Grand Prix,0.0
+570,LEC,ferrari,19.0,11.0,5352359000000.0,Finished,Spanish Grand Prix,0.0
+571,TSU,rb,15.0,12.0,5353356000000.0,Finished,Spanish Grand Prix,0.0
+572,PIA,mclaren,9.0,13.0,5357631000000.0,Lapped,Spanish Grand Prix,0.0
+573,DEV,rb,14.0,14.0,5358683000000.0,Lapped,Spanish Grand Prix,0.0
+574,HUL,haas,7.0,15.0,5370653000000.0,Lapped,Spanish Grand Prix,0.0
+575,ALB,williams,18.0,16.0,5381064000000.0,Lapped,Spanish Grand Prix,0.0
+576,NOR,mclaren,3.0,17.0,5383746000000.0,Lapped,Spanish Grand Prix,0.0
+577,MAG,haas,17.0,18.0,5391436000000.0,Lapped,Spanish Grand Prix,0.0
+578,BOT,sauber,16.0,19.0,5403299000000.0,Lapped,Spanish Grand Prix,0.0
+579,SAR,williams,20.0,20.0,5405033000000.0,Lapped,Spanish Grand Prix,0.0
+580,VER,red_bull,1.0,1.0,5638348000000.0,Finished,Canadian Grand Prix,0.0
+581,ALO,aston_martin,2.0,2.0,5647918000000.0,Finished,Canadian Grand Prix,0.0
+582,HAM,mercedes,3.0,3.0,5652516000000.0,Finished,Canadian Grand Prix,0.0
+583,LEC,ferrari,10.0,4.0,5656996000000.0,Finished,Canadian Grand Prix,0.0
+584,SAI,ferrari,11.0,5.0,5659888000000.0,Finished,Canadian Grand Prix,0.0
+585,PER,red_bull,12.0,6.0,5689376000000.0,Finished,Canadian Grand Prix,0.0
+586,ALB,williams,9.0,7.0,5699161000000.0,Finished,Canadian Grand Prix,0.0
+587,OCO,alpine,6.0,8.0,5700040000000.0,Finished,Canadian Grand Prix,0.0
+588,STR,aston_martin,16.0,9.0,5702750000000.0,Finished,Canadian Grand Prix,0.0
+589,BOT,sauber,14.0,10.0,5702780000000.0,Finished,Canadian Grand Prix,0.0
+590,PIA,mclaren,8.0,11.0,5703449000000.0,Finished,Canadian Grand Prix,0.0
+591,GAS,alpine,15.0,12.0,5703597000000.0,Finished,Canadian Grand Prix,0.0
+592,NOR,mclaren,7.0,13.0,5706711000000.0,Finished,Canadian Grand Prix,0.0
+593,TSU,rb,19.0,14.0,5711771000000.0,Finished,Canadian Grand Prix,0.0
+594,HUL,haas,5.0,15.0,5728714000000.0,Lapped,Canadian Grand Prix,0.0
+595,ZHO,sauber,20.0,16.0,5729148000000.0,Lapped,Canadian Grand Prix,0.0
+596,MAG,haas,13.0,17.0,5782030000000.0,Lapped,Canadian Grand Prix,0.0
+597,DEV,rb,17.0,18.0,5786738000000.0,Lapped,Canadian Grand Prix,0.0
+598,RUS,mercedes,4.0,19.0,,Retired,Canadian Grand Prix,0.0
+599,SAR,williams,18.0,20.0,,Retired,Canadian Grand Prix,0.0
+600,VER,red_bull,1.0,1.0,5133607000000.0,Finished,Austrian Grand Prix,0.0196078431372549
+601,LEC,ferrari,2.0,2.0,5138762000000.0,Finished,Austrian Grand Prix,0.0196078431372549
+602,PER,red_bull,15.0,3.0,5150795000000.0,Finished,Austrian Grand Prix,0.0196078431372549
+603,NOR,mclaren,4.0,4.0,5159934000000.0,Finished,Austrian Grand Prix,0.0196078431372549
+604,ALO,aston_martin,7.0,5.0,5163924000000.0,Finished,Austrian Grand Prix,0.0196078431372549
+605,SAI,ferrari,3.0,6.0,5164984000000.0,Finished,Austrian Grand Prix,0.0196078431372549
+606,RUS,mercedes,11.0,7.0,5182010000000.0,Finished,Austrian Grand Prix,0.0196078431372549
+607,HAM,mercedes,5.0,8.0,5182803000000.0,Finished,Austrian Grand Prix,0.0196078431372549
+608,STR,aston_martin,6.0,9.0,5192650000000.0,Finished,Austrian Grand Prix,0.0196078431372549
+609,GAS,alpine,9.0,10.0,5201274000000.0,Finished,Austrian Grand Prix,0.0196078431372549
+610,ALB,williams,10.0,11.0,5213374000000.0,Finished,Austrian Grand Prix,0.0196078431372549
+611,ZHO,sauber,17.0,12.0,5238007000000.0,Lapped,Austrian Grand Prix,0.0196078431372549
+612,SAR,williams,18.0,13.0,5244758000000.0,Lapped,Austrian Grand Prix,0.0196078431372549
+613,OCO,alpine,12.0,14.0,5255514000000.0,Lapped,Austrian Grand Prix,0.0196078431372549
+614,BOT,sauber,14.0,15.0,5256151000000.0,Lapped,Austrian Grand Prix,0.0196078431372549
+615,PIA,mclaren,13.0,16.0,5259943000000.0,Lapped,Austrian Grand Prix,0.0196078431372549
+616,DEV,rb,20.0,17.0,5263077000000.0,Lapped,Austrian Grand Prix,0.0196078431372549
+617,MAG,haas,19.0,18.0,5270027000000.0,Lapped,Austrian Grand Prix,0.0196078431372549
+618,TSU,rb,16.0,19.0,5273247000000.0,Lapped,Austrian Grand Prix,0.0196078431372549
+619,HUL,haas,8.0,20.0,,Retired,Austrian Grand Prix,0.0196078431372549
+620,VER,red_bull,1.0,1.0,5116938000000.0,Finished,British Grand Prix,0.0
+621,NOR,mclaren,2.0,2.0,5120736000000.0,Finished,British Grand Prix,0.0
+622,HAM,mercedes,7.0,3.0,5123721000000.0,Finished,British Grand Prix,0.0
+623,PIA,mclaren,3.0,4.0,5124714000000.0,Finished,British Grand Prix,0.0
+624,RUS,mercedes,6.0,5.0,5128144000000.0,Finished,British Grand Prix,0.0
+625,PER,red_bull,15.0,6.0,5129820000000.0,Finished,British Grand Prix,0.0
+626,ALO,aston_martin,9.0,7.0,5134131000000.0,Finished,British Grand Prix,0.0
+627,ALB,williams,8.0,8.0,5134816000000.0,Finished,British Grand Prix,0.0
+628,LEC,ferrari,4.0,9.0,5135627000000.0,Finished,British Grand Prix,0.0
+629,SAI,ferrari,5.0,10.0,5136386000000.0,Finished,British Grand Prix,0.0
+630,SAR,williams,14.0,11.0,5140570000000.0,Finished,British Grand Prix,0.0
+631,BOT,sauber,20.0,12.0,5142768000000.0,Finished,British Grand Prix,0.0
+632,HUL,haas,11.0,13.0,5143601000000.0,Finished,British Grand Prix,0.0
+633,STR,aston_martin,12.0,14.0,5144421000000.0,Finished,British Grand Prix,0.0
+634,ZHO,sauber,17.0,15.0,5146758000000.0,Finished,British Grand Prix,0.0
+635,TSU,rb,16.0,16.0,5148163000000.0,Finished,British Grand Prix,0.0
+636,DEV,rb,18.0,17.0,5150066000000.0,Finished,British Grand Prix,0.0
+637,GAS,alpine,10.0,18.0,,Finished,British Grand Prix,0.0
+638,MAG,haas,19.0,19.0,,Retired,British Grand Prix,0.0
+639,OCO,alpine,13.0,20.0,,Retired,British Grand Prix,0.0
+640,VER,red_bull,2.0,1.0,5888634000000.0,Finished,Hungarian Grand Prix,0.0
+641,NOR,mclaren,3.0,2.0,5922365000000.0,Finished,Hungarian Grand Prix,0.0
+642,PER,red_bull,9.0,3.0,5926237000000.0,Finished,Hungarian Grand Prix,0.0
+643,HAM,mercedes,1.0,4.0,5927768000000.0,Finished,Hungarian Grand Prix,0.0
+644,PIA,mclaren,4.0,5.0,5951206000000.0,Finished,Hungarian Grand Prix,0.0
+645,RUS,mercedes,18.0,6.0,5954459000000.0,Finished,Hungarian Grand Prix,0.0
+646,LEC,ferrari,6.0,7.0,5958951000000.0,Finished,Hungarian Grand Prix,0.0
+647,SAI,ferrari,11.0,8.0,5959707000000.0,Finished,Hungarian Grand Prix,0.0
+648,ALO,aston_martin,8.0,9.0,5964343000000.0,Finished,Hungarian Grand Prix,0.0
+649,STR,aston_martin,14.0,10.0,5978958000000.0,Lapped,Hungarian Grand Prix,0.0
+650,ALB,williams,16.0,11.0,5993430000000.0,Lapped,Hungarian Grand Prix,0.0
+651,BOT,sauber,7.0,12.0,5994422000000.0,Lapped,Hungarian Grand Prix,0.0
+652,RIC,rb,13.0,13.0,6000600000000.0,Lapped,Hungarian Grand Prix,0.0
+653,HUL,haas,10.0,14.0,6015641000000.0,Lapped,Hungarian Grand Prix,0.0
+654,TSU,rb,17.0,15.0,6015886000000.0,Lapped,Hungarian Grand Prix,0.0
+655,ZHO,sauber,5.0,16.0,6024834000000.0,Lapped,Hungarian Grand Prix,0.0
+656,MAG,haas,19.0,17.0,6046694000000.0,Lapped,Hungarian Grand Prix,0.0
+657,SAR,williams,20.0,18.0,,Finished,Hungarian Grand Prix,0.0
+658,OCO,alpine,12.0,19.0,,Retired,Hungarian Grand Prix,0.0
+659,GAS,alpine,15.0,20.0,,Retired,Hungarian Grand Prix,0.0
+660,VER,red_bull,6.0,1.0,4950450000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+661,PER,red_bull,2.0,2.0,4972755000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+662,LEC,ferrari,1.0,3.0,4982709000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+663,HAM,mercedes,3.0,4.0,5000121000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+664,ALO,aston_martin,9.0,5.0,5006634000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+665,RUS,mercedes,8.0,6.0,5013551000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+666,NOR,mclaren,7.0,7.0,5024169000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+667,OCO,alpine,14.0,8.0,5025169000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+668,STR,aston_martin,10.0,9.0,5029790000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+669,TSU,rb,11.0,10.0,5030671000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+670,GAS,alpine,12.0,11.0,5033534000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+671,BOT,sauber,13.0,12.0,5035641000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+672,ZHO,sauber,17.0,13.0,5045891000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+673,ALB,williams,15.0,14.0,5046634000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+674,MAG,haas,16.0,15.0,5052204000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+675,RIC,rb,19.0,16.0,5053521000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+676,SAR,williams,18.0,17.0,5054926000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+677,HUL,haas,20.0,18.0,5060900000000.0,Finished,Belgian Grand Prix,0.0733333333333333
+678,SAI,ferrari,4.0,19.0,,Retired,Belgian Grand Prix,0.0733333333333333
+679,PIA,mclaren,5.0,20.0,,Retired,Belgian Grand Prix,0.0733333333333333
+680,VER,red_bull,1.0,1.0,8644411000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+681,ALO,aston_martin,5.0,2.0,8648155000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+682,GAS,alpine,12.0,3.0,8651469000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+683,PER,red_bull,7.0,4.0,8654479000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+684,SAI,ferrari,6.0,5.0,8656952000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+685,HAM,mercedes,13.0,6.0,8657620000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+686,NOR,mclaren,2.0,7.0,8657643000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+687,ALB,williams,4.0,8.0,8659566000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+688,PIA,mclaren,8.0,9.0,8660991000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+689,OCO,alpine,16.0,10.0,8662757000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+690,STR,aston_martin,11.0,11.0,8664498000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+691,HUL,haas,14.0,12.0,8665251000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+692,LAW,rb,19.0,13.0,8670558000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+693,BOT,sauber,18.0,14.0,8671799000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+694,TSU,rb,17.0,15.0,8674304000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+695,MAG,haas,0.0,16.0,8675821000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+696,RUS,mercedes,3.0,17.0,8700165000000.0,Finished,Dutch Grand Prix,0.2296650717703349
+697,ZHO,sauber,15.0,18.0,,Accident,Dutch Grand Prix,0.2296650717703349
+698,LEC,ferrari,9.0,19.0,,Undertray,Dutch Grand Prix,0.2296650717703349
+699,SAR,williams,10.0,20.0,,Accident,Dutch Grand Prix,0.2296650717703349
+700,VER,red_bull,2.0,1.0,4421143000000.0,Finished,Italian Grand Prix,0.0
+701,PER,red_bull,5.0,2.0,4427207000000.0,Finished,Italian Grand Prix,0.0
+702,SAI,ferrari,1.0,3.0,4432336000000.0,Finished,Italian Grand Prix,0.0
+703,LEC,ferrari,3.0,4.0,4432520000000.0,Finished,Italian Grand Prix,0.0
+704,RUS,mercedes,4.0,5.0,4444171000000.0,Finished,Italian Grand Prix,0.0
+705,HAM,mercedes,8.0,6.0,4463822000000.0,Finished,Italian Grand Prix,0.0
+706,ALB,williams,6.0,7.0,4466249000000.0,Finished,Italian Grand Prix,0.0
+707,NOR,mclaren,9.0,8.0,4466592000000.0,Finished,Italian Grand Prix,0.0
+708,ALO,aston_martin,10.0,9.0,4467437000000.0,Finished,Italian Grand Prix,0.0
+709,BOT,sauber,14.0,10.0,4485199000000.0,Finished,Italian Grand Prix,0.0
+710,LAW,rb,12.0,11.0,4491781000000.0,Finished,Italian Grand Prix,0.0
+711,PIA,mclaren,7.0,12.0,4494217000000.0,Finished,Italian Grand Prix,0.0
+712,SAR,williams,15.0,13.0,4499700000000.0,Finished,Italian Grand Prix,0.0
+713,ZHO,sauber,16.0,14.0,4501307000000.0,Finished,Italian Grand Prix,0.0
+714,GAS,alpine,17.0,15.0,4503653000000.0,Finished,Italian Grand Prix,0.0
+715,STR,aston_martin,20.0,16.0,4508409000000.0,Finished,Italian Grand Prix,0.0
+716,HUL,haas,13.0,17.0,4510502000000.0,Lapped,Italian Grand Prix,0.0
+717,MAG,haas,19.0,18.0,4521033000000.0,Lapped,Italian Grand Prix,0.0
+718,OCO,alpine,18.0,19.0,,Retired,Italian Grand Prix,0.0
+719,TSU,rb,11.0,20.0,,Did not start,Italian Grand Prix,0.0
+720,SAI,ferrari,1.0,1.0,6397418000000.0,Finished,Singapore Grand Prix,0.0
+721,NOR,mclaren,4.0,2.0,6398230000000.0,Finished,Singapore Grand Prix,0.0
+722,HAM,mercedes,5.0,3.0,6398687000000.0,Finished,Singapore Grand Prix,0.0
+723,LEC,ferrari,3.0,4.0,6418595000000.0,Finished,Singapore Grand Prix,0.0
+724,VER,red_bull,11.0,5.0,6418859000000.0,Finished,Singapore Grand Prix,0.0
+725,GAS,alpine,12.0,6.0,6435859000000.0,Finished,Singapore Grand Prix,0.0
+726,PIA,mclaren,17.0,7.0,6438897000000.0,Finished,Singapore Grand Prix,0.0
+727,PER,red_bull,13.0,8.0,6456952000000.0,Finished,Singapore Grand Prix,0.0
+728,LAW,rb,10.0,9.0,6463336000000.0,Finished,Singapore Grand Prix,0.0
+729,MAG,haas,6.0,10.0,6469534000000.0,Finished,Singapore Grand Prix,0.0
+730,ALB,williams,14.0,11.0,6470835000000.0,Finished,Singapore Grand Prix,0.0
+731,ZHO,sauber,19.0,12.0,6481067000000.0,Finished,Singapore Grand Prix,0.0
+732,HUL,haas,9.0,13.0,6483619000000.0,Finished,Singapore Grand Prix,0.0
+733,SAR,williams,18.0,14.0,6484307000000.0,Finished,Singapore Grand Prix,0.0
+734,ALO,aston_martin,7.0,15.0,6485021000000.0,Finished,Singapore Grand Prix,0.0
+735,RUS,mercedes,2.0,16.0,,Finished,Singapore Grand Prix,0.0
+736,BOT,sauber,16.0,17.0,,Retired,Singapore Grand Prix,0.0
+737,OCO,alpine,8.0,18.0,,Retired,Singapore Grand Prix,0.0
+738,TSU,rb,15.0,19.0,,Retired,Singapore Grand Prix,0.0
+739,STR,aston_martin,,,,Withdrew,Singapore Grand Prix,0.0
+740,VER,red_bull,1.0,1.0,5458421000000.0,Finished,Japanese Grand Prix,0.0
+741,NOR,mclaren,3.0,2.0,5477808000000.0,Finished,Japanese Grand Prix,0.0
+742,PIA,mclaren,2.0,3.0,5494915000000.0,Finished,Japanese Grand Prix,0.0
+743,LEC,ferrari,4.0,4.0,5502419000000.0,Finished,Japanese Grand Prix,0.0
+744,HAM,mercedes,7.0,5.0,5507797000000.0,Finished,Japanese Grand Prix,0.0
+745,SAI,ferrari,6.0,6.0,5508642000000.0,Finished,Japanese Grand Prix,0.0
+746,RUS,mercedes,8.0,7.0,5516080000000.0,Finished,Japanese Grand Prix,0.0
+747,ALO,aston_martin,10.0,8.0,5533146000000.0,Finished,Japanese Grand Prix,0.0
+748,OCO,alpine,14.0,9.0,5538099000000.0,Finished,Japanese Grand Prix,0.0
+749,GAS,alpine,12.0,10.0,5541576000000.0,Finished,Japanese Grand Prix,0.0
+750,LAW,rb,11.0,11.0,5544665000000.0,Lapped,Japanese Grand Prix,0.0
+751,TSU,rb,9.0,12.0,5545550000000.0,Lapped,Japanese Grand Prix,0.0
+752,ZHO,sauber,19.0,13.0,5547916000000.0,Lapped,Japanese Grand Prix,0.0
+753,HUL,haas,18.0,14.0,5551174000000.0,Lapped,Japanese Grand Prix,0.0
+754,MAG,haas,15.0,15.0,5571146000000.0,Lapped,Japanese Grand Prix,0.0
+755,ALB,williams,13.0,16.0,,Retired,Japanese Grand Prix,0.0
+756,SAR,williams,20.0,17.0,,Retired,Japanese Grand Prix,0.0
+757,STR,aston_martin,17.0,18.0,,Retired,Japanese Grand Prix,0.0
+758,PER,red_bull,5.0,19.0,,Retired,Japanese Grand Prix,0.0
+759,BOT,sauber,16.0,20.0,,Retired,Japanese Grand Prix,0.0
+760,VER,red_bull,1.0,1.0,5259168000000.0,Finished,Qatar Grand Prix,0.0
+761,PIA,mclaren,6.0,2.0,5264001000000.0,Finished,Qatar Grand Prix,0.0
+762,NOR,mclaren,10.0,3.0,5265137000000.0,Finished,Qatar Grand Prix,0.0
+763,RUS,mercedes,2.0,4.0,5293287000000.0,Finished,Qatar Grand Prix,0.0
+764,LEC,ferrari,5.0,5.0,5298144000000.0,Finished,Qatar Grand Prix,0.0
+765,ALO,aston_martin,4.0,6.0,5308200000000.0,Finished,Qatar Grand Prix,0.0
+766,OCO,alpine,8.0,7.0,5321558000000.0,Finished,Qatar Grand Prix,0.0
+767,BOT,sauber,9.0,8.0,5325731000000.0,Finished,Qatar Grand Prix,0.0
+768,ZHO,sauber,19.0,9.0,5335295000000.0,Finished,Qatar Grand Prix,0.0
+769,PER,red_bull,20.0,10.0,5339349000000.0,Finished,Qatar Grand Prix,0.0
+770,STR,aston_martin,16.0,11.0,5340820000000.0,Finished,Qatar Grand Prix,0.0
+771,GAS,alpine,7.0,12.0,5341468000000.0,Finished,Qatar Grand Prix,0.0
+772,ALB,williams,13.0,13.0,5350182000000.0,Finished,Qatar Grand Prix,0.0
+773,MAG,haas,18.0,14.0,5351428000000.0,Lapped,Qatar Grand Prix,0.0
+774,TSU,rb,11.0,15.0,5359140000000.0,Lapped,Qatar Grand Prix,0.0
+775,HUL,haas,14.0,16.0,5365267000000.0,Lapped,Qatar Grand Prix,0.0
+776,LAW,rb,17.0,17.0,5377290000000.0,Lapped,Qatar Grand Prix,0.0
+777,SAR,williams,15.0,18.0,,Retired,Qatar Grand Prix,0.0
+778,HAM,mercedes,3.0,19.0,,Retired,Qatar Grand Prix,0.0
+779,SAI,ferrari,12.0,20.0,,Did not start,Qatar Grand Prix,0.0
+780,VER,red_bull,6.0,1.0,5721362000000.0,Finished,United States Grand Prix,0.0
+781,NOR,mclaren,2.0,2.0,5732092000000.0,Finished,United States Grand Prix,0.0
+782,SAI,ferrari,4.0,3.0,5736496000000.0,Finished,United States Grand Prix,0.0
+783,PER,red_bull,9.0,4.0,5739822000000.0,Finished,United States Grand Prix,0.0
+784,RUS,mercedes,5.0,5.0,5746361000000.0,Finished,United States Grand Prix,0.0
+785,GAS,alpine,7.0,6.0,5769358000000.0,Finished,United States Grand Prix,0.0
+786,STR,aston_martin,20.0,7.0,5770058000000.0,Finished,United States Grand Prix,0.0
+787,TSU,rb,11.0,8.0,5795747000000.0,Finished,United States Grand Prix,0.0
+788,ALB,williams,15.0,9.0,5808076000000.0,Finished,United States Grand Prix,0.0
+789,SAR,williams,16.0,10.0,5809360000000.0,Finished,United States Grand Prix,0.0
+790,HUL,haas,18.0,11.0,5811266000000.0,Finished,United States Grand Prix,0.0
+791,BOT,sauber,13.0,12.0,5819963000000.0,Finished,United States Grand Prix,0.0
+792,ZHO,sauber,12.0,13.0,5823539000000.0,Lapped,United States Grand Prix,0.0
+793,MAG,haas,17.0,14.0,5828035000000.0,Lapped,United States Grand Prix,0.0
+794,RIC,rb,14.0,15.0,5828815000000.0,Lapped,United States Grand Prix,0.0
+795,ALO,aston_martin,19.0,16.0,,Retired,United States Grand Prix,0.0
+796,PIA,mclaren,10.0,17.0,,Retired,United States Grand Prix,0.0
+797,OCO,alpine,8.0,18.0,,Retired,United States Grand Prix,0.0
+798,HAM,mercedes,3.0,19.0,5822188000000.0,Disqualified,United States Grand Prix,0.0
+799,LEC,ferrari,1.0,20.0,5844625000000.0,Disqualified,United States Grand Prix,0.0
+800,VER,red_bull,3.0,1.0,7350814000000.0,Finished,Mexico City Grand Prix,0.0
+801,HAM,mercedes,6.0,2.0,7364689000000.0,Finished,Mexico City Grand Prix,0.0
+802,LEC,ferrari,1.0,3.0,7373938000000.0,Finished,Mexico City Grand Prix,0.0
+803,SAI,ferrari,2.0,4.0,7377968000000.0,Finished,Mexico City Grand Prix,0.0
+804,NOR,mclaren,17.0,5.0,7384080000000.0,Finished,Mexico City Grand Prix,0.0
+805,RUS,mercedes,8.0,6.0,7391834000000.0,Finished,Mexico City Grand Prix,0.0
+806,RIC,rb,4.0,7.0,7392384000000.0,Finished,Mexico City Grand Prix,0.0
+807,PIA,mclaren,7.0,8.0,7393918000000.0,Finished,Mexico City Grand Prix,0.0
+808,ALB,williams,14.0,9.0,7399387000000.0,Finished,Mexico City Grand Prix,0.0
+809,OCO,alpine,15.0,10.0,7413693000000.0,Finished,Mexico City Grand Prix,0.0
+810,GAS,alpine,11.0,11.0,7417022000000.0,Finished,Mexico City Grand Prix,0.0
+811,TSU,rb,18.0,12.0,7429796000000.0,Finished,Mexico City Grand Prix,0.0
+812,HUL,haas,12.0,13.0,7431123000000.0,Finished,Mexico City Grand Prix,0.0
+813,ZHO,sauber,10.0,14.0,7432490000000.0,Finished,Mexico City Grand Prix,0.0
+814,BOT,sauber,9.0,15.0,7436411000000.0,Finished,Mexico City Grand Prix,0.0
+815,SAR,williams,19.0,16.0,,Retired,Mexico City Grand Prix,0.0
+816,STR,aston_martin,0.0,17.0,,Collision damage,Mexico City Grand Prix,0.0
+817,ALO,aston_martin,13.0,18.0,,Withdrew,Mexico City Grand Prix,0.0
+818,MAG,haas,16.0,19.0,,Accident,Mexico City Grand Prix,0.0
+819,PER,red_bull,5.0,20.0,,Collision damage,Mexico City Grand Prix,0.0
+820,VER,red_bull,1.0,1.0,7008894000000.0,Finished,São Paulo Grand Prix,0.0054644808743169
+821,NOR,mclaren,6.0,2.0,7017171000000.0,Finished,São Paulo Grand Prix,0.0054644808743169
+822,ALO,aston_martin,4.0,3.0,7043049000000.0,Finished,São Paulo Grand Prix,0.0054644808743169
+823,PER,red_bull,9.0,4.0,7043102000000.0,Finished,São Paulo Grand Prix,0.0054644808743169
+824,STR,aston_martin,3.0,5.0,7049739000000.0,Finished,São Paulo Grand Prix,0.0054644808743169
+825,SAI,ferrari,7.0,6.0,7059082000000.0,Finished,São Paulo Grand Prix,0.0054644808743169
+826,GAS,alpine,15.0,7.0,7064987000000.0,Finished,São Paulo Grand Prix,0.0054644808743169
+827,HAM,mercedes,5.0,8.0,7071753000000.0,Finished,São Paulo Grand Prix,0.0054644808743169
+828,TSU,rb,16.0,9.0,7078774000000.0,Finished,São Paulo Grand Prix,0.0054644808743169
+829,OCO,alpine,14.0,10.0,7088615000000.0,Lapped,São Paulo Grand Prix,0.0054644808743169
+830,SAR,williams,19.0,11.0,7104982000000.0,Lapped,São Paulo Grand Prix,0.0054644808743169
+831,HUL,haas,11.0,12.0,7108734000000.0,Lapped,São Paulo Grand Prix,0.0054644808743169
+832,RIC,rb,17.0,13.0,7148735000000.0,Lapped,São Paulo Grand Prix,0.0054644808743169
+833,PIA,mclaren,10.0,14.0,7152371000000.0,Lapped,São Paulo Grand Prix,0.0054644808743169
+834,RUS,mercedes,8.0,15.0,,Retired,São Paulo Grand Prix,0.0054644808743169
+835,BOT,sauber,18.0,16.0,,Retired,São Paulo Grand Prix,0.0054644808743169
+836,ZHO,sauber,20.0,17.0,,Retired,São Paulo Grand Prix,0.0054644808743169
+837,MAG,haas,12.0,18.0,,Retired,São Paulo Grand Prix,0.0054644808743169
+838,ALB,williams,13.0,19.0,,Retired,São Paulo Grand Prix,0.0054644808743169
+839,LEC,ferrari,2.0,20.0,,Did not start,São Paulo Grand Prix,0.0054644808743169
+840,VER,red_bull,2.0,1.0,5348289000000.0,Finished,Las Vegas Grand Prix,0.0
+841,LEC,ferrari,1.0,2.0,5350359000000.0,Finished,Las Vegas Grand Prix,0.0
+842,PER,red_bull,11.0,3.0,5350530000000.0,Finished,Las Vegas Grand Prix,0.0
+843,OCO,alpine,16.0,4.0,5366954000000.0,Finished,Las Vegas Grand Prix,0.0
+844,STR,aston_martin,19.0,5.0,5368356000000.0,Finished,Las Vegas Grand Prix,0.0
+845,SAI,ferrari,12.0,6.0,5369123000000.0,Finished,Las Vegas Grand Prix,0.0
+846,HAM,mercedes,10.0,7.0,5370044000000.0,Finished,Las Vegas Grand Prix,0.0
+847,RUS,mercedes,3.0,8.0,5371380000000.0,Finished,Las Vegas Grand Prix,0.0
+848,ALO,aston_martin,9.0,9.0,5374253000000.0,Finished,Las Vegas Grand Prix,0.0
+849,PIA,mclaren,18.0,10.0,5377785000000.0,Finished,Las Vegas Grand Prix,0.0
+850,GAS,alpine,4.0,11.0,5382559000000.0,Finished,Las Vegas Grand Prix,0.0
+851,ALB,williams,5.0,12.0,5391687000000.0,Finished,Las Vegas Grand Prix,0.0
+852,MAG,haas,8.0,13.0,5393114000000.0,Finished,Las Vegas Grand Prix,0.0
+853,RIC,rb,14.0,14.0,5396814000000.0,Finished,Las Vegas Grand Prix,0.0
+854,ZHO,sauber,17.0,15.0,5398451000000.0,Finished,Las Vegas Grand Prix,0.0
+855,SAR,williams,6.0,16.0,5399171000000.0,Finished,Las Vegas Grand Prix,0.0
+856,BOT,sauber,7.0,17.0,5433639000000.0,Finished,Las Vegas Grand Prix,0.0
+857,TSU,rb,20.0,18.0,,Finished,Las Vegas Grand Prix,0.0
+858,HUL,haas,13.0,19.0,,Finished,Las Vegas Grand Prix,0.0
+859,NOR,mclaren,15.0,20.0,,Retired,Las Vegas Grand Prix,0.0
+860,VER,red_bull,1.0,1.0,5222624000000.0,Finished,Abu Dhabi Grand Prix,0.0
+861,LEC,ferrari,2.0,2.0,5240617000000.0,Finished,Abu Dhabi Grand Prix,0.0
+862,RUS,mercedes,4.0,3.0,5242952000000.0,Finished,Abu Dhabi Grand Prix,0.0
+863,PER,red_bull,9.0,4.0,5244077000000.0,Finished,Abu Dhabi Grand Prix,0.0
+864,NOR,mclaren,5.0,5.0,5246908000000.0,Finished,Abu Dhabi Grand Prix,0.0
+865,PIA,mclaren,3.0,6.0,5254111000000.0,Finished,Abu Dhabi Grand Prix,0.0
+866,ALO,aston_martin,7.0,7.0,5262136000000.0,Finished,Abu Dhabi Grand Prix,0.0
+867,TSU,rb,6.0,8.0,5265712000000.0,Finished,Abu Dhabi Grand Prix,0.0
+868,HAM,mercedes,11.0,9.0,5267048000000.0,Finished,Abu Dhabi Grand Prix,0.0
+869,STR,aston_martin,13.0,10.0,5278256000000.0,Finished,Abu Dhabi Grand Prix,0.0
+870,RIC,rb,15.0,11.0,5278853000000.0,Finished,Abu Dhabi Grand Prix,0.0
+871,OCO,alpine,12.0,12.0,5288997000000.0,Finished,Abu Dhabi Grand Prix,0.0
+872,GAS,alpine,10.0,13.0,5292984000000.0,Finished,Abu Dhabi Grand Prix,0.0
+873,ALB,williams,14.0,14.0,5295808000000.0,Finished,Abu Dhabi Grand Prix,0.0
+874,HUL,haas,8.0,15.0,5306320000000.0,Finished,Abu Dhabi Grand Prix,0.0
+875,SAR,williams,20.0,16.0,5310415000000.0,Finished,Abu Dhabi Grand Prix,0.0
+876,ZHO,sauber,19.0,17.0,5312046000000.0,Finished,Abu Dhabi Grand Prix,0.0
+877,SAI,ferrari,16.0,18.0,,Finished,Abu Dhabi Grand Prix,0.0
+878,BOT,sauber,18.0,19.0,5235035000000.0,Lapped,Abu Dhabi Grand Prix,0.0
+879,MAG,haas,17.0,20.0,5237500000000.0,Lapped,Abu Dhabi Grand Prix,0.0
+880,VER,red_bull,1.0,1.0,5504742000000.0,Finished,Bahrain Grand Prix,0.0
+881,PER,red_bull,5.0,2.0,5527199000000.0,Finished,Bahrain Grand Prix,0.0
+882,SAI,ferrari,4.0,3.0,5529852000000.0,Finished,Bahrain Grand Prix,0.0
+883,LEC,ferrari,2.0,4.0,5544411000000.0,Finished,Bahrain Grand Prix,0.0
+884,RUS,mercedes,3.0,5.0,5551530000000.0,Finished,Bahrain Grand Prix,0.0
+885,NOR,mclaren,7.0,6.0,5553200000000.0,Finished,Bahrain Grand Prix,0.0
+886,HAM,mercedes,9.0,7.0,5555066000000.0,Finished,Bahrain Grand Prix,0.0
+887,PIA,mclaren,8.0,8.0,5560824000000.0,Finished,Bahrain Grand Prix,0.0
+888,ALO,aston_martin,6.0,9.0,5579629000000.0,Finished,Bahrain Grand Prix,0.0
+889,STR,aston_martin,12.0,10.0,5597958000000.0,Finished,Bahrain Grand Prix,0.0
+890,ZHO,sauber,17.0,11.0,5604717000000.0,Lapped,Bahrain Grand Prix,0.0
+891,MAG,haas,15.0,12.0,5606274000000.0,Lapped,Bahrain Grand Prix,0.0
+892,RIC,rb,14.0,13.0,5606916000000.0,Lapped,Bahrain Grand Prix,0.0
+893,TSU,rb,11.0,14.0,5607440000000.0,Lapped,Bahrain Grand Prix,0.0
+894,ALB,williams,13.0,15.0,5609844000000.0,Lapped,Bahrain Grand Prix,0.0
+895,HUL,haas,10.0,16.0,5615590000000.0,Lapped,Bahrain Grand Prix,0.0
+896,OCO,alpine,19.0,17.0,5629408000000.0,Lapped,Bahrain Grand Prix,0.0
+897,GAS,alpine,20.0,18.0,5630375000000.0,Lapped,Bahrain Grand Prix,0.0
+898,BOT,sauber,16.0,19.0,5681188000000.0,Lapped,Bahrain Grand Prix,0.0
+899,SAR,williams,18.0,20.0,5701983000000.0,Lapped,Bahrain Grand Prix,0.0
+900,VER,red_bull,1.0,1.0,4843273000000.0,Finished,Saudi Arabian Grand Prix,0.0
+901,PER,red_bull,3.0,2.0,4856916000000.0,Finished,Saudi Arabian Grand Prix,0.0
+902,LEC,ferrari,2.0,3.0,4861912000000.0,Finished,Saudi Arabian Grand Prix,0.0
+903,PIA,mclaren,5.0,4.0,4875280000000.0,Finished,Saudi Arabian Grand Prix,0.0
+904,ALO,aston_martin,4.0,5.0,4879032000000.0,Finished,Saudi Arabian Grand Prix,0.0
+905,RUS,mercedes,7.0,6.0,4883209000000.0,Finished,Saudi Arabian Grand Prix,0.0
+906,BEA,ferrari,11.0,7.0,4885952000000.0,Finished,Saudi Arabian Grand Prix,0.0
+907,NOR,mclaren,6.0,8.0,4888981000000.0,Finished,Saudi Arabian Grand Prix,0.0
+908,HAM,mercedes,8.0,9.0,4890664000000.0,Finished,Saudi Arabian Grand Prix,0.0
+909,HUL,haas,15.0,10.0,4920269000000.0,Finished,Saudi Arabian Grand Prix,0.0
+910,ALB,williams,12.0,11.0,4931627000000.0,Finished,Saudi Arabian Grand Prix,0.0
+911,MAG,haas,13.0,12.0,4949010000000.0,Finished,Saudi Arabian Grand Prix,0.0
+912,OCO,alpine,17.0,13.0,4953011000000.0,Lapped,Saudi Arabian Grand Prix,0.0
+913,SAR,williams,19.0,14.0,4955795000000.0,Lapped,Saudi Arabian Grand Prix,0.0
+914,TSU,rb,9.0,15.0,4959543000000.0,Lapped,Saudi Arabian Grand Prix,0.0
+915,RIC,rb,14.0,16.0,4969725000000.0,Lapped,Saudi Arabian Grand Prix,0.0
+916,BOT,sauber,16.0,17.0,4972125000000.0,Lapped,Saudi Arabian Grand Prix,0.0
+917,ZHO,sauber,20.0,18.0,4978563000000.0,Lapped,Saudi Arabian Grand Prix,0.0
+918,STR,aston_martin,10.0,19.0,,Retired,Saudi Arabian Grand Prix,0.0
+919,GAS,alpine,18.0,20.0,,Retired,Saudi Arabian Grand Prix,0.0
+920,SAI,ferrari,2.0,1.0,4826843000000.0,Finished,Australian Grand Prix,0.0
+921,LEC,ferrari,4.0,2.0,4829209000000.0,Finished,Australian Grand Prix,0.0
+922,NOR,mclaren,3.0,3.0,4832747000000.0,Finished,Australian Grand Prix,0.0
+923,PIA,mclaren,5.0,4.0,4862613000000.0,Finished,Australian Grand Prix,0.0
+924,PER,red_bull,6.0,5.0,4883152000000.0,Finished,Australian Grand Prix,0.0
+925,STR,aston_martin,9.0,6.0,4920065000000.0,Finished,Australian Grand Prix,0.0
+926,TSU,rb,8.0,7.0,4922444000000.0,Finished,Australian Grand Prix,0.0
+927,ALO,aston_martin,10.0,8.0,4927835000000.0,Finished,Australian Grand Prix,0.0
+928,HUL,haas,16.0,9.0,4931396000000.0,Finished,Australian Grand Prix,0.0
+929,MAG,haas,14.0,10.0,4935477000000.0,Lapped,Australian Grand Prix,0.0
+930,ALB,williams,12.0,11.0,4936405000000.0,Lapped,Australian Grand Prix,0.0
+931,RIC,rb,18.0,12.0,4942904000000.0,Lapped,Australian Grand Prix,0.0
+932,GAS,alpine,17.0,13.0,4972349000000.0,Lapped,Australian Grand Prix,0.0
+933,BOT,sauber,13.0,14.0,4973722000000.0,Lapped,Australian Grand Prix,0.0
+934,ZHO,sauber,19.0,15.0,4975689000000.0,Lapped,Australian Grand Prix,0.0
+935,OCO,alpine,15.0,16.0,4985375000000.0,Lapped,Australian Grand Prix,0.0
+936,RUS,mercedes,7.0,17.0,,Finished,Australian Grand Prix,0.0
+937,HAM,mercedes,11.0,18.0,,Retired,Australian Grand Prix,0.0
+938,VER,red_bull,1.0,19.0,,Retired,Australian Grand Prix,0.0
+939,VER,red_bull,1.0,1.0,6863566000000.0,Finished,Japanese Grand Prix,0.0
+940,PER,red_bull,2.0,2.0,6876101000000.0,Finished,Japanese Grand Prix,0.0
+941,SAI,ferrari,4.0,3.0,6884432000000.0,Finished,Japanese Grand Prix,0.0
+942,LEC,ferrari,8.0,4.0,6890088000000.0,Finished,Japanese Grand Prix,0.0
+943,NOR,mclaren,3.0,5.0,6893266000000.0,Finished,Japanese Grand Prix,0.0
+944,ALO,aston_martin,5.0,6.0,6907838000000.0,Finished,Japanese Grand Prix,0.0
+945,RUS,mercedes,9.0,7.0,6909517000000.0,Finished,Japanese Grand Prix,0.0
+946,PIA,mclaren,6.0,8.0,6911091000000.0,Finished,Japanese Grand Prix,0.0
+947,HAM,mercedes,7.0,9.0,6912192000000.0,Finished,Japanese Grand Prix,0.0
+948,TSU,rb,10.0,10.0,6913794000000.0,Lapped,Japanese Grand Prix,0.0
+949,HUL,haas,12.0,11.0,6919360000000.0,Lapped,Japanese Grand Prix,0.0
+950,STR,aston_martin,16.0,12.0,6923425000000.0,Lapped,Japanese Grand Prix,0.0
+951,MAG,haas,18.0,13.0,6930111000000.0,Lapped,Japanese Grand Prix,0.0
+952,BOT,sauber,13.0,14.0,6931085000000.0,Lapped,Japanese Grand Prix,0.0
+953,OCO,alpine,15.0,15.0,6953344000000.0,Lapped,Japanese Grand Prix,0.0
+954,GAS,alpine,17.0,16.0,6967258000000.0,Lapped,Japanese Grand Prix,0.0
+955,SAR,williams,19.0,17.0,6984957000000.0,Lapped,Japanese Grand Prix,0.0
+956,ZHO,sauber,20.0,18.0,,Retired,Japanese Grand Prix,0.0
+957,RIC,rb,11.0,19.0,,Retired,Japanese Grand Prix,0.0
+958,ALB,williams,14.0,20.0,,Retired,Japanese Grand Prix,0.0
+959,VER,red_bull,1.0,1.0,6052554000000.0,Finished,Chinese Grand Prix,0.0
+960,NOR,mclaren,4.0,2.0,6066327000000.0,Finished,Chinese Grand Prix,0.0
+961,PER,red_bull,2.0,3.0,6071714000000.0,Finished,Chinese Grand Prix,0.0
+962,LEC,ferrari,6.0,4.0,6076177000000.0,Finished,Chinese Grand Prix,0.0
+963,SAI,ferrari,7.0,5.0,6086537000000.0,Finished,Chinese Grand Prix,0.0
+964,RUS,mercedes,8.0,6.0,6091278000000.0,Finished,Chinese Grand Prix,0.0
+965,ALO,aston_martin,3.0,7.0,6095968000000.0,Finished,Chinese Grand Prix,0.0
+966,PIA,mclaren,5.0,8.0,6108752000000.0,Finished,Chinese Grand Prix,0.0
+967,HAM,mercedes,18.0,9.0,6110540000000.0,Finished,Chinese Grand Prix,0.0
+968,HUL,haas,9.0,10.0,6113030000000.0,Finished,Chinese Grand Prix,0.0
+969,OCO,alpine,13.0,11.0,6115366000000.0,Finished,Chinese Grand Prix,0.0
+970,ALB,williams,14.0,12.0,6118060000000.0,Finished,Chinese Grand Prix,0.0
+971,GAS,alpine,15.0,13.0,6121777000000.0,Finished,Chinese Grand Prix,0.0
+972,ZHO,sauber,16.0,14.0,6124243000000.0,Finished,Chinese Grand Prix,0.0
+973,STR,aston_martin,11.0,15.0,6135340000000.0,Finished,Chinese Grand Prix,0.0
+974,MAG,haas,17.0,16.0,6140087000000.0,Finished,Chinese Grand Prix,0.0
+975,SAR,williams,20.0,17.0,6147664000000.0,Finished,Chinese Grand Prix,0.0
+976,RIC,rb,12.0,18.0,,Retired,Chinese Grand Prix,0.0
+977,TSU,rb,19.0,19.0,,Retired,Chinese Grand Prix,0.0
+978,BOT,sauber,10.0,20.0,,Retired,Chinese Grand Prix,0.0
+979,NOR,mclaren,5.0,1.0,5449876000000.0,Finished,Miami Grand Prix,0.0
+980,VER,red_bull,1.0,2.0,5457488000000.0,Finished,Miami Grand Prix,0.0
+981,LEC,ferrari,2.0,3.0,5459796000000.0,Finished,Miami Grand Prix,0.0
+982,PER,red_bull,4.0,4.0,5464526000000.0,Finished,Miami Grand Prix,0.0
+983,SAI,ferrari,3.0,5.0,5466283000000.0,Finished,Miami Grand Prix,0.0
+984,HAM,mercedes,8.0,6.0,5466461000000.0,Finished,Miami Grand Prix,0.0
+985,TSU,rb,10.0,7.0,5476061000000.0,Finished,Miami Grand Prix,0.0
+986,RUS,mercedes,7.0,8.0,5484665000000.0,Finished,Miami Grand Prix,0.0
+987,ALO,aston_martin,15.0,9.0,5486983000000.0,Finished,Miami Grand Prix,0.0
+988,OCO,alpine,13.0,10.0,5489622000000.0,Finished,Miami Grand Prix,0.0
+989,HUL,haas,9.0,11.0,5490665000000.0,Finished,Miami Grand Prix,0.0
+990,GAS,alpine,12.0,12.0,5494834000000.0,Finished,Miami Grand Prix,0.0
+991,PIA,mclaren,6.0,13.0,5499632000000.0,Finished,Miami Grand Prix,0.0
+992,ZHO,sauber,19.0,14.0,5499855000000.0,Finished,Miami Grand Prix,0.0
+993,RIC,rb,20.0,15.0,5500832000000.0,Finished,Miami Grand Prix,0.0
+994,BOT,sauber,16.0,16.0,5502232000000.0,Finished,Miami Grand Prix,0.0
+995,STR,aston_martin,11.0,17.0,5505049000000.0,Finished,Miami Grand Prix,0.0
+996,ALB,williams,14.0,18.0,5525967000000.0,Finished,Miami Grand Prix,0.0
+997,MAG,haas,18.0,19.0,5534559000000.0,Finished,Miami Grand Prix,0.0
+998,SAR,williams,17.0,20.0,,Retired,Miami Grand Prix,0.0
+999,VER,red_bull,1.0,1.0,5125252000000.0,Finished,Emilia Romagna Grand Prix,0.0
+1000,NOR,mclaren,2.0,2.0,5125977000000.0,Finished,Emilia Romagna Grand Prix,0.0
+1001,LEC,ferrari,3.0,3.0,5133168000000.0,Finished,Emilia Romagna Grand Prix,0.0
+1002,PIA,mclaren,5.0,4.0,5139384000000.0,Finished,Emilia Romagna Grand Prix,0.0
+1003,SAI,ferrari,4.0,5.0,5147577000000.0,Finished,Emilia Romagna Grand Prix,0.0
+1004,HAM,mercedes,8.0,6.0,5160356000000.0,Finished,Emilia Romagna Grand Prix,0.0
+1005,RUS,mercedes,6.0,7.0,5172406000000.0,Finished,Emilia Romagna Grand Prix,0.0
+1006,PER,red_bull,11.0,8.0,5180028000000.0,Finished,Emilia Romagna Grand Prix,0.0
+1007,STR,aston_martin,13.0,9.0,5204808000000.0,Finished,Emilia Romagna Grand Prix,0.0
+1008,TSU,rb,7.0,10.0,5222664000000.0,Lapped,Emilia Romagna Grand Prix,0.0
+1009,HUL,haas,10.0,11.0,5230085000000.0,Lapped,Emilia Romagna Grand Prix,0.0
+1010,MAG,haas,18.0,12.0,5231242000000.0,Lapped,Emilia Romagna Grand Prix,0.0
+1011,RIC,rb,9.0,13.0,5232469000000.0,Lapped,Emilia Romagna Grand Prix,0.0
+1012,OCO,alpine,12.0,14.0,5248715000000.0,Lapped,Emilia Romagna Grand Prix,0.0
+1013,ZHO,sauber,17.0,15.0,5249741000000.0,Lapped,Emilia Romagna Grand Prix,0.0
+1014,GAS,alpine,15.0,16.0,5254523000000.0,Lapped,Emilia Romagna Grand Prix,0.0
+1015,SAR,williams,19.0,17.0,5255859000000.0,Lapped,Emilia Romagna Grand Prix,0.0
+1016,BOT,sauber,16.0,18.0,5261151000000.0,Lapped,Emilia Romagna Grand Prix,0.0
+1017,ALO,aston_martin,20.0,19.0,5279932000000.0,Lapped,Emilia Romagna Grand Prix,0.0
+1018,ALB,williams,14.0,20.0,,Retired,Emilia Romagna Grand Prix,0.0
+1019,LEC,ferrari,1.0,1.0,8595554000000.0,Finished,Monaco Grand Prix,0.0
+1020,PIA,mclaren,2.0,2.0,8602706000000.0,Finished,Monaco Grand Prix,0.0
+1021,SAI,ferrari,3.0,3.0,8603139000000.0,Finished,Monaco Grand Prix,0.0
+1022,NOR,mclaren,4.0,4.0,8604204000000.0,Finished,Monaco Grand Prix,0.0
+1023,RUS,mercedes,5.0,5.0,8608863000000.0,Finished,Monaco Grand Prix,0.0
+1024,VER,red_bull,6.0,6.0,8609407000000.0,Finished,Monaco Grand Prix,0.0
+1025,HAM,mercedes,7.0,7.0,8610462000000.0,Finished,Monaco Grand Prix,0.0
+1026,TSU,rb,8.0,8.0,8635041000000.0,Lapped,Monaco Grand Prix,0.0
+1027,ALB,williams,9.0,9.0,8649606000000.0,Lapped,Monaco Grand Prix,0.0
+1028,GAS,alpine,10.0,10.0,8655795000000.0,Lapped,Monaco Grand Prix,0.0
+1029,ALO,aston_martin,14.0,11.0,8659649000000.0,Lapped,Monaco Grand Prix,0.0
+1030,RIC,rb,12.0,12.0,8660059000000.0,Lapped,Monaco Grand Prix,0.0
+1031,BOT,sauber,17.0,13.0,8660283000000.0,Lapped,Monaco Grand Prix,0.0
+1032,STR,aston_martin,13.0,14.0,8661762000000.0,Lapped,Monaco Grand Prix,0.0
+1033,SAR,williams,15.0,15.0,8664821000000.0,Lapped,Monaco Grand Prix,0.0
+1034,ZHO,sauber,18.0,16.0,8711055000000.0,Lapped,Monaco Grand Prix,0.0
+1035,OCO,alpine,11.0,17.0,,Retired,Monaco Grand Prix,0.0
+1036,PER,red_bull,16.0,18.0,,Retired,Monaco Grand Prix,0.0
+1037,HUL,haas,19.0,19.0,,Retired,Monaco Grand Prix,0.0
+1038,MAG,haas,20.0,20.0,,Retired,Monaco Grand Prix,0.0
+1039,VER,red_bull,2.0,1.0,6347927000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1040,NOR,mclaren,3.0,2.0,6351806000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1041,RUS,mercedes,1.0,3.0,6352244000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1042,HAM,mercedes,7.0,4.0,6352842000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1043,PIA,mclaren,4.0,5.0,6358126000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1044,ALO,aston_martin,6.0,6.0,6365437000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1045,STR,aston_martin,9.0,7.0,6371552000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1046,RIC,rb,5.0,8.0,6376599000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1047,GAS,alpine,15.0,9.0,6377948000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1048,OCO,alpine,18.0,10.0,6378240000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1049,HUL,haas,17.0,11.0,6378751000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1050,MAG,haas,14.0,12.0,6379180000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1051,BOT,sauber,19.0,13.0,6388414000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1052,TSU,rb,8.0,14.0,6400621000000.0,Finished,Canadian Grand Prix,0.2743362831858407
+1053,ZHO,sauber,20.0,15.0,6401455000000.0,Lapped,Canadian Grand Prix,0.2743362831858407
+1054,SAI,ferrari,12.0,16.0,,Retired,Canadian Grand Prix,0.2743362831858407
+1055,ALB,williams,10.0,17.0,,Retired,Canadian Grand Prix,0.2743362831858407
+1056,PER,red_bull,16.0,18.0,,Retired,Canadian Grand Prix,0.2743362831858407
+1057,LEC,ferrari,11.0,19.0,,Retired,Canadian Grand Prix,0.2743362831858407
+1058,SAR,williams,13.0,20.0,,Retired,Canadian Grand Prix,0.2743362831858407
+1059,VER,red_bull,2.0,1.0,5300227000000.0,Finished,Spanish Grand Prix,0.0064935064935064
+1060,NOR,mclaren,1.0,2.0,5302446000000.0,Finished,Spanish Grand Prix,0.0064935064935064
+1061,HAM,mercedes,3.0,3.0,5318017000000.0,Finished,Spanish Grand Prix,0.0064935064935064
+1062,RUS,mercedes,4.0,4.0,5322547000000.0,Finished,Spanish Grand Prix,0.0064935064935064
+1063,LEC,ferrari,5.0,5.0,5322936000000.0,Finished,Spanish Grand Prix,0.0064935064935064
+1064,SAI,ferrari,6.0,6.0,5331255000000.0,Finished,Spanish Grand Prix,0.0064935064935064
+1065,PIA,mclaren,9.0,7.0,5333987000000.0,Finished,Spanish Grand Prix,0.0064935064935064
+1066,PER,red_bull,11.0,8.0,5359751000000.0,Finished,Spanish Grand Prix,0.0064935064935064
+1067,GAS,alpine,7.0,9.0,5362252000000.0,Finished,Spanish Grand Prix,0.0064935064935064
+1068,OCO,alpine,8.0,10.0,5372116000000.0,Finished,Spanish Grand Prix,0.0064935064935064
+1069,HUL,haas,13.0,11.0,5379442000000.0,Finished,Spanish Grand Prix,0.0064935064935064
+1070,ALO,aston_martin,10.0,12.0,5388939000000.0,Lapped,Spanish Grand Prix,0.0064935064935064
+1071,ZHO,sauber,15.0,13.0,5394918000000.0,Lapped,Spanish Grand Prix,0.0064935064935064
+1072,STR,aston_martin,14.0,14.0,5404694000000.0,Lapped,Spanish Grand Prix,0.0064935064935064
+1073,RIC,rb,18.0,15.0,5423492000000.0,Lapped,Spanish Grand Prix,0.0064935064935064
+1074,BOT,sauber,12.0,16.0,5432755000000.0,Lapped,Spanish Grand Prix,0.0064935064935064
+1075,MAG,haas,16.0,17.0,5434230000000.0,Lapped,Spanish Grand Prix,0.0064935064935064
+1076,ALB,williams,20.0,18.0,5437591000000.0,Lapped,Spanish Grand Prix,0.0064935064935064
+1077,TSU,rb,17.0,19.0,5448346000000.0,Lapped,Spanish Grand Prix,0.0064935064935064
+1078,SAR,williams,19.0,20.0,5453212000000.0,Lapped,Spanish Grand Prix,0.0064935064935064
+1079,RUS,mercedes,3.0,1.0,5062798000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1080,PIA,mclaren,7.0,2.0,5064704000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1081,SAI,ferrari,4.0,3.0,5067331000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1082,HAM,mercedes,5.0,4.0,5085940000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1083,VER,red_bull,1.0,5.0,5100051000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1084,HUL,haas,9.0,6.0,5116886000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1085,PER,red_bull,8.0,7.0,5117470000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1086,MAG,haas,12.0,8.0,5123153000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1087,RIC,rb,11.0,9.0,5123967000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1088,GAS,alpine,13.0,10.0,5124564000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1089,LEC,ferrari,6.0,11.0,5129854000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1090,OCO,alpine,10.0,12.0,5131123000000.0,Finished,Austrian Grand Prix,0.0069930069930069
+1091,STR,aston_martin,17.0,13.0,5141357000000.0,Lapped,Austrian Grand Prix,0.0069930069930069
+1092,TSU,rb,14.0,14.0,5144268000000.0,Lapped,Austrian Grand Prix,0.0069930069930069
+1093,ALB,williams,16.0,15.0,5146989000000.0,Lapped,Austrian Grand Prix,0.0069930069930069
+1094,BOT,sauber,18.0,16.0,5150498000000.0,Lapped,Austrian Grand Prix,0.0069930069930069
+1095,ZHO,sauber,20.0,17.0,5176005000000.0,Lapped,Austrian Grand Prix,0.0069930069930069
+1096,ALO,aston_martin,15.0,18.0,5178783000000.0,Lapped,Austrian Grand Prix,0.0069930069930069
+1097,SAR,williams,19.0,19.0,5185092000000.0,Lapped,Austrian Grand Prix,0.0069930069930069
+1098,NOR,mclaren,2.0,20.0,,Lapped,Austrian Grand Prix,0.0069930069930069
+1099,HAM,mercedes,2.0,1.0,4947059000000.0,Finished,British Grand Prix,0.3469387755102041
+1100,VER,red_bull,4.0,2.0,4948524000000.0,Finished,British Grand Prix,0.3469387755102041
+1101,NOR,mclaren,3.0,3.0,4954606000000.0,Finished,British Grand Prix,0.3469387755102041
+1102,PIA,mclaren,5.0,4.0,4959488000000.0,Finished,British Grand Prix,0.3469387755102041
+1103,SAI,ferrari,7.0,5.0,4994377000000.0,Finished,British Grand Prix,0.3469387755102041
+1104,HUL,haas,6.0,6.0,5002781000000.0,Finished,British Grand Prix,0.3469387755102041
+1105,STR,aston_martin,8.0,7.0,5003628000000.0,Finished,British Grand Prix,0.3469387755102041
+1106,ALO,aston_martin,10.0,8.0,5010636000000.0,Finished,British Grand Prix,0.3469387755102041
+1107,ALB,williams,9.0,9.0,5015446000000.0,Finished,British Grand Prix,0.3469387755102041
+1108,TSU,rb,13.0,10.0,5026362000000.0,Finished,British Grand Prix,0.3469387755102041
+1109,SAR,williams,12.0,11.0,5036019000000.0,Finished,British Grand Prix,0.3469387755102041
+1110,MAG,haas,17.0,12.0,5037212000000.0,Finished,British Grand Prix,0.3469387755102041
+1111,RIC,rb,15.0,13.0,5047149000000.0,Lapped,British Grand Prix,0.3469387755102041
+1112,LEC,ferrari,11.0,14.0,5077685000000.0,Lapped,British Grand Prix,0.3469387755102041
+1113,BOT,sauber,16.0,15.0,5079033000000.0,Lapped,British Grand Prix,0.3469387755102041
+1114,OCO,alpine,18.0,16.0,5089715000000.0,Lapped,British Grand Prix,0.3469387755102041
+1115,PER,red_bull,20.0,17.0,5097038000000.0,Lapped,British Grand Prix,0.3469387755102041
+1116,ZHO,sauber,14.0,18.0,5133509000000.0,Lapped,British Grand Prix,0.3469387755102041
+1117,RUS,mercedes,1.0,19.0,,Retired,British Grand Prix,0.3469387755102041
+1118,GAS,alpine,19.0,20.0,,Did not start,British Grand Prix,0.3469387755102041
+1119,PIA,mclaren,2.0,1.0,5881989000000.0,Finished,Hungarian Grand Prix,0.0
+1120,NOR,mclaren,1.0,2.0,5884130000000.0,Finished,Hungarian Grand Prix,0.0
+1121,HAM,mercedes,5.0,3.0,5896869000000.0,Finished,Hungarian Grand Prix,0.0
+1122,LEC,ferrari,6.0,4.0,5901675000000.0,Finished,Hungarian Grand Prix,0.0
+1123,VER,red_bull,3.0,5.0,5903338000000.0,Finished,Hungarian Grand Prix,0.0
+1124,SAI,ferrari,4.0,6.0,5905062000000.0,Finished,Hungarian Grand Prix,0.0
+1125,PER,red_bull,16.0,7.0,5921781000000.0,Finished,Hungarian Grand Prix,0.0
+1126,RUS,mercedes,17.0,8.0,5924357000000.0,Finished,Hungarian Grand Prix,0.0
+1127,TSU,rb,10.0,9.0,5959248000000.0,Finished,Hungarian Grand Prix,0.0
+1128,STR,aston_martin,8.0,10.0,5959965000000.0,Finished,Hungarian Grand Prix,0.0
+1129,ALO,aston_martin,7.0,11.0,5964449000000.0,Finished,Hungarian Grand Prix,0.0
+1130,RIC,rb,9.0,12.0,5982373000000.0,Lapped,Hungarian Grand Prix,0.0
+1131,HUL,haas,11.0,13.0,5997633000000.0,Lapped,Hungarian Grand Prix,0.0
+1132,ALB,williams,13.0,14.0,6001218000000.0,Lapped,Hungarian Grand Prix,0.0
+1133,MAG,haas,15.0,15.0,6009751000000.0,Lapped,Hungarian Grand Prix,0.0
+1134,BOT,sauber,12.0,16.0,6009858000000.0,Lapped,Hungarian Grand Prix,0.0
+1135,SAR,williams,14.0,17.0,6017040000000.0,Lapped,Hungarian Grand Prix,0.0
+1136,OCO,alpine,19.0,18.0,6025378000000.0,Lapped,Hungarian Grand Prix,0.0
+1137,ZHO,sauber,18.0,19.0,6028047000000.0,Lapped,Hungarian Grand Prix,0.0
+1138,GAS,alpine,20.0,20.0,,Retired,Hungarian Grand Prix,0.0
+1139,HAM,mercedes,3.0,1.0,4797566000000.0,Finished,Belgian Grand Prix,0.0
+1140,PIA,mclaren,5.0,2.0,4798213000000.0,Finished,Belgian Grand Prix,0.0
+1141,LEC,ferrari,1.0,3.0,4805589000000.0,Finished,Belgian Grand Prix,0.0
+1142,VER,red_bull,11.0,4.0,4806266000000.0,Finished,Belgian Grand Prix,0.0
+1143,NOR,mclaren,4.0,5.0,4806890000000.0,Finished,Belgian Grand Prix,0.0
+1144,SAI,ferrari,7.0,6.0,4816835000000.0,Finished,Belgian Grand Prix,0.0
+1145,PER,red_bull,2.0,7.0,4840235000000.0,Finished,Belgian Grand Prix,0.0
+1146,ALO,aston_martin,8.0,8.0,4847003000000.0,Finished,Belgian Grand Prix,0.0
+1147,OCO,alpine,9.0,9.0,4849592000000.0,Finished,Belgian Grand Prix,0.0
+1148,RIC,rb,13.0,10.0,4851966000000.0,Finished,Belgian Grand Prix,0.0
+1149,STR,aston_martin,15.0,11.0,4860051000000.0,Finished,Belgian Grand Prix,0.0
+1150,ALB,williams,10.0,12.0,4860691000000.0,Finished,Belgian Grand Prix,0.0
+1151,GAS,alpine,12.0,13.0,4861405000000.0,Finished,Belgian Grand Prix,0.0
+1152,MAG,haas,17.0,14.0,4863671000000.0,Finished,Belgian Grand Prix,0.0
+1153,BOT,sauber,14.0,15.0,4867678000000.0,Finished,Belgian Grand Prix,0.0
+1154,TSU,rb,20.0,16.0,4873777000000.0,Finished,Belgian Grand Prix,0.0
+1155,SAR,williams,18.0,17.0,4883097000000.0,Finished,Belgian Grand Prix,0.0
+1156,HUL,haas,16.0,18.0,4885873000000.0,Finished,Belgian Grand Prix,0.0
+1157,ZHO,sauber,19.0,19.0,,Retired,Belgian Grand Prix,0.0
+1158,RUS,mercedes,6.0,20.0,,Disqualified,Belgian Grand Prix,0.0
+1159,NOR,mclaren,1.0,1.0,5445519000000.0,Finished,Dutch Grand Prix,0.0
+1160,VER,red_bull,2.0,2.0,5468415000000.0,Finished,Dutch Grand Prix,0.0
+1161,LEC,ferrari,6.0,3.0,5470958000000.0,Finished,Dutch Grand Prix,0.0
+1162,PIA,mclaren,3.0,4.0,5472856000000.0,Finished,Dutch Grand Prix,0.0
+1163,SAI,ferrari,10.0,5.0,5477656000000.0,Finished,Dutch Grand Prix,0.0
+1164,PER,red_bull,5.0,6.0,5485061000000.0,Finished,Dutch Grand Prix,0.0
+1165,RUS,mercedes,4.0,7.0,5490136000000.0,Finished,Dutch Grand Prix,0.0
+1166,HAM,mercedes,14.0,8.0,5495118000000.0,Finished,Dutch Grand Prix,0.0
+1167,GAS,alpine,9.0,9.0,5503722000000.0,Lapped,Dutch Grand Prix,0.0
+1168,ALO,aston_martin,7.0,10.0,5508651000000.0,Lapped,Dutch Grand Prix,0.0
+1169,HUL,haas,12.0,11.0,5514332000000.0,Lapped,Dutch Grand Prix,0.0
+1170,RIC,rb,13.0,12.0,5516185000000.0,Lapped,Dutch Grand Prix,0.0
+1171,STR,aston_martin,8.0,13.0,5520830000000.0,Lapped,Dutch Grand Prix,0.0
+1172,ALB,williams,19.0,14.0,5535829000000.0,Lapped,Dutch Grand Prix,0.0
+1173,OCO,alpine,15.0,15.0,5541996000000.0,Lapped,Dutch Grand Prix,0.0
+1174,SAR,williams,18.0,16.0,5559657000000.0,Lapped,Dutch Grand Prix,0.0
+1175,TSU,rb,11.0,17.0,5560264000000.0,Lapped,Dutch Grand Prix,0.0
+1176,MAG,haas,20.0,18.0,5560825000000.0,Lapped,Dutch Grand Prix,0.0
+1177,BOT,sauber,16.0,19.0,5564073000000.0,Lapped,Dutch Grand Prix,0.0
+1178,ZHO,sauber,17.0,20.0,5596844000000.0,Lapped,Dutch Grand Prix,0.0
+1179,LEC,ferrari,4.0,1.0,4480727000000.0,Finished,Italian Grand Prix,0.0
+1180,PIA,mclaren,2.0,2.0,4483391000000.0,Finished,Italian Grand Prix,0.0
+1181,NOR,mclaren,1.0,3.0,4486880000000.0,Finished,Italian Grand Prix,0.0
+1182,SAI,ferrari,5.0,4.0,4496348000000.0,Finished,Italian Grand Prix,0.0
+1183,HAM,mercedes,6.0,5.0,4503547000000.0,Finished,Italian Grand Prix,0.0
+1184,VER,red_bull,7.0,6.0,4518659000000.0,Finished,Italian Grand Prix,0.0
+1185,RUS,mercedes,3.0,7.0,4520442000000.0,Finished,Italian Grand Prix,0.0
+1186,PER,red_bull,8.0,8.0,4534875000000.0,Finished,Italian Grand Prix,0.0
+1187,ALB,williams,9.0,9.0,4548183000000.0,Finished,Italian Grand Prix,0.0
+1188,MAG,haas,13.0,10.0,4549029000000.0,Finished,Italian Grand Prix,0.0
+1189,ALO,aston_martin,11.0,11.0,4549222000000.0,Finished,Italian Grand Prix,0.0
+1190,COL,williams,18.0,12.0,4562035000000.0,Finished,Italian Grand Prix,0.0
+1191,RIC,rb,12.0,13.0,4574179000000.0,Finished,Italian Grand Prix,0.0
+1192,OCO,alpine,15.0,14.0,4586838000000.0,Lapped,Italian Grand Prix,0.0
+1193,GAS,alpine,14.0,15.0,4592523000000.0,Lapped,Italian Grand Prix,0.0
+1194,BOT,sauber,19.0,16.0,4601390000000.0,Lapped,Italian Grand Prix,0.0
+1195,HUL,haas,10.0,17.0,4605049000000.0,Lapped,Italian Grand Prix,0.0
+1196,ZHO,sauber,20.0,18.0,4614234000000.0,Lapped,Italian Grand Prix,0.0
+1197,STR,aston_martin,17.0,19.0,4617687000000.0,Lapped,Italian Grand Prix,0.0
+1198,TSU,rb,16.0,20.0,,Retired,Italian Grand Prix,0.0
+1199,PIA,mclaren,2.0,1.0,5578007000000.0,Finished,Azerbaijan Grand Prix,0.0
+1200,LEC,ferrari,1.0,2.0,5588917000000.0,Finished,Azerbaijan Grand Prix,0.0
+1201,RUS,mercedes,5.0,3.0,5609335000000.0,Finished,Azerbaijan Grand Prix,0.0
+1202,NOR,mclaren,15.0,4.0,5614150000000.0,Finished,Azerbaijan Grand Prix,0.0
+1203,VER,red_bull,6.0,5.0,5655105000000.0,Finished,Azerbaijan Grand Prix,0.0
+1204,ALO,aston_martin,7.0,6.0,5663475000000.0,Finished,Azerbaijan Grand Prix,0.0
+1205,ALB,williams,9.0,7.0,5665403000000.0,Finished,Azerbaijan Grand Prix,0.0
+1206,COL,williams,8.0,8.0,5667548000000.0,Finished,Azerbaijan Grand Prix,0.0
+1207,HAM,mercedes,19.0,9.0,5670408000000.0,Finished,Azerbaijan Grand Prix,0.0
+1208,BEA,haas,10.0,10.0,5671134000000.0,Finished,Azerbaijan Grand Prix,0.0
+1209,HUL,haas,12.0,11.0,5671472000000.0,Finished,Azerbaijan Grand Prix,0.0
+1210,GAS,alpine,18.0,12.0,5695196000000.0,Finished,Azerbaijan Grand Prix,0.0
+1211,RIC,rb,14.0,13.0,5724914000000.0,Finished,Azerbaijan Grand Prix,0.0
+1212,ZHO,sauber,17.0,14.0,5726848000000.0,Finished,Azerbaijan Grand Prix,0.0
+1213,OCO,alpine,20.0,15.0,5748192000000.0,Lapped,Azerbaijan Grand Prix,0.0
+1214,BOT,sauber,16.0,16.0,5752243000000.0,Lapped,Azerbaijan Grand Prix,0.0
+1215,PER,red_bull,4.0,17.0,,Finished,Azerbaijan Grand Prix,0.0
+1216,SAI,ferrari,3.0,18.0,,Finished,Azerbaijan Grand Prix,0.0
+1217,STR,aston_martin,13.0,19.0,,Finished,Azerbaijan Grand Prix,0.0
+1218,TSU,rb,11.0,20.0,,Retired,Azerbaijan Grand Prix,0.0
+1219,NOR,mclaren,1.0,1.0,6052571000000.0,Finished,Singapore Grand Prix,0.0
+1220,VER,red_bull,2.0,2.0,6073516000000.0,Finished,Singapore Grand Prix,0.0
+1221,PIA,mclaren,5.0,3.0,6094394000000.0,Finished,Singapore Grand Prix,0.0
+1222,RUS,mercedes,4.0,4.0,6113611000000.0,Finished,Singapore Grand Prix,0.0
+1223,LEC,ferrari,9.0,5.0,6115001000000.0,Finished,Singapore Grand Prix,0.0
+1224,HAM,mercedes,3.0,6.0,6137819000000.0,Finished,Singapore Grand Prix,0.0
+1225,SAI,ferrari,10.0,7.0,6148610000000.0,Finished,Singapore Grand Prix,0.0
+1226,ALO,aston_martin,7.0,8.0,6149483000000.0,Lapped,Singapore Grand Prix,0.0
+1227,HUL,haas,6.0,9.0,6151750000000.0,Lapped,Singapore Grand Prix,0.0
+1228,PER,red_bull,13.0,10.0,6153234000000.0,Lapped,Singapore Grand Prix,0.0
+1229,COL,williams,12.0,11.0,6154894000000.0,Lapped,Singapore Grand Prix,0.0
+1230,TSU,rb,8.0,12.0,6157402000000.0,Lapped,Singapore Grand Prix,0.0
+1231,OCO,alpine,15.0,13.0,6192615000000.0,Lapped,Singapore Grand Prix,0.0
+1232,STR,aston_martin,17.0,14.0,6196181000000.0,Lapped,Singapore Grand Prix,0.0
+1233,ZHO,sauber,20.0,15.0,6205830000000.0,Lapped,Singapore Grand Prix,0.0
+1234,BOT,sauber,19.0,16.0,6206439000000.0,Lapped,Singapore Grand Prix,0.0
+1235,GAS,alpine,18.0,17.0,6207669000000.0,Lapped,Singapore Grand Prix,0.0
+1236,RIC,rb,16.0,18.0,6238406000000.0,Lapped,Singapore Grand Prix,0.0
+1237,MAG,haas,14.0,19.0,,Finished,Singapore Grand Prix,0.0
+1238,ALB,williams,11.0,20.0,,Retired,Singapore Grand Prix,0.0
+1239,LEC,ferrari,4.0,1.0,5709639000000.0,Finished,United States Grand Prix,0.0
+1240,SAI,ferrari,3.0,2.0,5718201000000.0,Finished,United States Grand Prix,0.0
+1241,VER,red_bull,2.0,3.0,5729051000000.0,Finished,United States Grand Prix,0.0
+1242,NOR,mclaren,1.0,4.0,5729993000000.0,Finished,United States Grand Prix,0.0
+1243,PIA,mclaren,5.0,5.0,5731560000000.0,Finished,United States Grand Prix,0.0
+1244,RUS,mercedes,20.0,6.0,5765934000000.0,Finished,United States Grand Prix,0.0
+1245,PER,red_bull,9.0,7.0,5768711000000.0,Finished,United States Grand Prix,0.0
+1246,HUL,haas,11.0,8.0,5772596000000.0,Finished,United States Grand Prix,0.0
+1247,LAW,rb,19.0,9.0,5780202000000.0,Finished,United States Grand Prix,0.0
+1248,COL,williams,15.0,10.0,5781618000000.0,Finished,United States Grand Prix,0.0
+1249,MAG,haas,8.0,11.0,5789421000000.0,Finished,United States Grand Prix,0.0
+1250,GAS,alpine,6.0,12.0,5800197000000.0,Finished,United States Grand Prix,0.0
+1251,ALO,aston_martin,7.0,13.0,5801923000000.0,Lapped,United States Grand Prix,0.0
+1252,TSU,rb,10.0,14.0,5808409000000.0,Lapped,United States Grand Prix,0.0
+1253,STR,aston_martin,13.0,15.0,5817180000000.0,Lapped,United States Grand Prix,0.0
+1254,ALB,williams,14.0,16.0,5818289000000.0,Lapped,United States Grand Prix,0.0
+1255,BOT,sauber,16.0,17.0,5834530000000.0,Lapped,United States Grand Prix,0.0
+1256,OCO,alpine,12.0,18.0,5842309000000.0,Lapped,United States Grand Prix,0.0
+1257,ZHO,sauber,18.0,19.0,5849437000000.0,Lapped,United States Grand Prix,0.0
+1258,HAM,mercedes,17.0,20.0,,Retired,United States Grand Prix,0.0
+1259,SAI,ferrari,1.0,1.0,6055800000000.0,Finished,Mexico City Grand Prix,0.0
+1260,NOR,mclaren,3.0,2.0,6060505000000.0,Finished,Mexico City Grand Prix,0.0
+1261,LEC,ferrari,4.0,3.0,6090187000000.0,Finished,Mexico City Grand Prix,0.0
+1262,HAM,mercedes,6.0,4.0,6100580000000.0,Finished,Mexico City Grand Prix,0.0
+1263,RUS,mercedes,5.0,5.0,6104336000000.0,Finished,Mexico City Grand Prix,0.0
+1264,VER,red_bull,2.0,6.0,6115358000000.0,Finished,Mexico City Grand Prix,0.0
+1265,MAG,haas,7.0,7.0,6119442000000.0,Finished,Mexico City Grand Prix,0.0
+1266,PIA,mclaren,17.0,8.0,6120728000000.0,Finished,Mexico City Grand Prix,0.0
+1267,HUL,haas,10.0,9.0,6123448000000.0,Lapped,Mexico City Grand Prix,0.0
+1268,GAS,alpine,8.0,10.0,6139315000000.0,Lapped,Mexico City Grand Prix,0.0
+1269,STR,aston_martin,14.0,11.0,6145800000000.0,Lapped,Mexico City Grand Prix,0.0
+1270,COL,williams,16.0,12.0,6158225000000.0,Lapped,Mexico City Grand Prix,0.0
+1271,OCO,alpine,0.0,13.0,6160391000000.0,Lapped,Mexico City Grand Prix,0.0
+1272,BOT,sauber,15.0,14.0,6162955000000.0,Lapped,Mexico City Grand Prix,0.0
+1273,ZHO,sauber,19.0,15.0,6182450000000.0,Lapped,Mexico City Grand Prix,0.0
+1274,LAW,rb,12.0,16.0,6185194000000.0,Lapped,Mexico City Grand Prix,0.0
+1275,PER,red_bull,18.0,17.0,6194012000000.0,Lapped,Mexico City Grand Prix,0.0
+1276,ALO,aston_martin,13.0,18.0,,Retired,Mexico City Grand Prix,0.0
+1277,ALB,williams,9.0,19.0,,Retired,Mexico City Grand Prix,0.0
+1278,TSU,rb,11.0,20.0,,Retired,Mexico City Grand Prix,0.0
+1279,VER,red_bull,17.0,1.0,7614430000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1280,OCO,alpine,4.0,2.0,7633907000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1281,GAS,alpine,13.0,3.0,7636962000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1282,RUS,mercedes,2.0,4.0,7637695000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1283,LEC,ferrari,6.0,5.0,7644607000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1284,NOR,mclaren,1.0,6.0,7645802000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1285,TSU,rb,3.0,7.0,7656486000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1286,PIA,mclaren,8.0,8.0,7659373000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1287,LAW,rb,5.0,9.0,7664882000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1288,HAM,mercedes,14.0,10.0,7665183000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1289,PER,red_bull,12.0,11.0,7665961000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1290,BEA,haas,15.0,12.0,7671515000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1291,BOT,sauber,11.0,13.0,7678018000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1292,ALO,aston_martin,9.0,14.0,7692479000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1293,ZHO,sauber,19.0,15.0,7694079000000.0,Finished,São Paulo Grand Prix,0.582089552238806
+1294,SAI,ferrari,20.0,16.0,,Retired,São Paulo Grand Prix,0.582089552238806
+1295,COL,williams,16.0,17.0,,Retired,São Paulo Grand Prix,0.582089552238806
+1296,ALB,williams,7.0,18.0,,Did not start,São Paulo Grand Prix,0.582089552238806
+1297,STR,aston_martin,10.0,19.0,,Did not start,São Paulo Grand Prix,0.582089552238806
+1298,HUL,haas,18.0,20.0,,Disqualified,São Paulo Grand Prix,0.582089552238806
+1299,RUS,mercedes,1.0,1.0,4925969000000.0,Finished,Las Vegas Grand Prix,0.0
+1300,HAM,mercedes,10.0,2.0,4933282000000.0,Finished,Las Vegas Grand Prix,0.0
+1301,SAI,ferrari,2.0,3.0,4937875000000.0,Finished,Las Vegas Grand Prix,0.0
+1302,LEC,ferrari,4.0,4.0,4940252000000.0,Finished,Las Vegas Grand Prix,0.0
+1303,VER,red_bull,5.0,5.0,4942551000000.0,Finished,Las Vegas Grand Prix,0.0
+1304,NOR,mclaren,6.0,6.0,4969354000000.0,Finished,Las Vegas Grand Prix,0.0
+1305,PIA,mclaren,8.0,7.0,4977334000000.0,Finished,Las Vegas Grand Prix,0.0
+1306,HUL,haas,9.0,8.0,4985777000000.0,Finished,Las Vegas Grand Prix,0.0
+1307,TSU,rb,7.0,9.0,4988777000000.0,Finished,Las Vegas Grand Prix,0.0
+1308,PER,red_bull,15.0,10.0,4989083000000.0,Finished,Las Vegas Grand Prix,0.0
+1309,ALO,aston_martin,16.0,11.0,4995164000000.0,Finished,Las Vegas Grand Prix,0.0
+1310,MAG,haas,12.0,12.0,4995772000000.0,Finished,Las Vegas Grand Prix,0.0
+1311,ZHO,sauber,13.0,13.0,5000054000000.0,Finished,Las Vegas Grand Prix,0.0
+1312,COL,williams,20.0,14.0,5001141000000.0,Finished,Las Vegas Grand Prix,0.0
+1313,STR,aston_martin,18.0,15.0,5010071000000.0,Finished,Las Vegas Grand Prix,0.0
+1314,LAW,rb,14.0,16.0,5016974000000.0,Finished,Las Vegas Grand Prix,0.0
+1315,OCO,alpine,11.0,17.0,5019034000000.0,Lapped,Las Vegas Grand Prix,0.0
+1316,BOT,sauber,19.0,18.0,5028259000000.0,Lapped,Las Vegas Grand Prix,0.0
+1317,ALB,williams,17.0,19.0,,Retired,Las Vegas Grand Prix,0.0
+1318,GAS,alpine,3.0,20.0,,Retired,Las Vegas Grand Prix,0.0
+1319,VER,red_bull,2.0,1.0,5465323000000.0,Finished,Qatar Grand Prix,0.0
+1320,LEC,ferrari,5.0,2.0,5471354000000.0,Finished,Qatar Grand Prix,0.0
+1321,PIA,mclaren,4.0,3.0,5472142000000.0,Finished,Qatar Grand Prix,0.0
+1322,RUS,mercedes,1.0,4.0,5479427000000.0,Finished,Qatar Grand Prix,0.0
+1323,GAS,alpine,11.0,5.0,5482105000000.0,Finished,Qatar Grand Prix,0.0
+1324,SAI,ferrari,7.0,6.0,5482799000000.0,Finished,Qatar Grand Prix,0.0
+1325,ALO,aston_martin,8.0,7.0,5485190000000.0,Finished,Qatar Grand Prix,0.0
+1326,ZHO,sauber,12.0,8.0,5490683000000.0,Finished,Qatar Grand Prix,0.0
+1327,MAG,haas,10.0,9.0,5497500000000.0,Finished,Qatar Grand Prix,0.0
+1328,NOR,mclaren,3.0,10.0,5501085000000.0,Finished,Qatar Grand Prix,0.0
+1329,BOT,sauber,13.0,11.0,5515566000000.0,Finished,Qatar Grand Prix,0.0
+1330,HAM,mercedes,6.0,12.0,5521445000000.0,Finished,Qatar Grand Prix,0.0
+1331,TSU,rb,14.0,13.0,5526423000000.0,Finished,Qatar Grand Prix,0.0
+1332,LAW,rb,17.0,14.0,5527979000000.0,Finished,Qatar Grand Prix,0.0
+1333,ALB,williams,16.0,15.0,5540948000000.0,Lapped,Qatar Grand Prix,0.0
+1334,HUL,haas,18.0,16.0,,Retired,Qatar Grand Prix,0.0
+1335,PER,red_bull,9.0,17.0,,Retired,Qatar Grand Prix,0.0
+1336,STR,aston_martin,15.0,18.0,,Retired,Qatar Grand Prix,0.0
+1337,COL,williams,19.0,19.0,,Retired,Qatar Grand Prix,0.0
+1338,OCO,alpine,20.0,20.0,,Retired,Qatar Grand Prix,0.0
+1339,NOR,mclaren,1.0,1.0,5193291000000.0,Finished,Abu Dhabi Grand Prix,0.0
+1340,SAI,ferrari,3.0,2.0,5199123000000.0,Finished,Abu Dhabi Grand Prix,0.0
+1341,LEC,ferrari,19.0,3.0,5225219000000.0,Finished,Abu Dhabi Grand Prix,0.0
+1342,HAM,mercedes,16.0,4.0,5229774000000.0,Finished,Abu Dhabi Grand Prix,0.0
+1343,RUS,mercedes,6.0,5.0,5230829000000.0,Finished,Abu Dhabi Grand Prix,0.0
+1344,VER,red_bull,4.0,6.0,5243138000000.0,Finished,Abu Dhabi Grand Prix,0.0
+1345,GAS,alpine,5.0,7.0,5265851000000.0,Finished,Abu Dhabi Grand Prix,0.0
+1346,HUL,haas,7.0,8.0,5268845000000.0,Finished,Abu Dhabi Grand Prix,0.0
+1347,ALO,aston_martin,8.0,9.0,5275664000000.0,Finished,Abu Dhabi Grand Prix,0.0
+1348,PIA,mclaren,2.0,10.0,5277112000000.0,Finished,Abu Dhabi Grand Prix,0.0
+1349,ALB,williams,18.0,11.0,5288363000000.0,Lapped,Abu Dhabi Grand Prix,0.0
+1350,TSU,rb,11.0,12.0,5291850000000.0,Lapped,Abu Dhabi Grand Prix,0.0
+1351,ZHO,sauber,15.0,13.0,5294416000000.0,Lapped,Abu Dhabi Grand Prix,0.0
+1352,STR,aston_martin,13.0,14.0,5295585000000.0,Lapped,Abu Dhabi Grand Prix,0.0
+1353,DOO,alpine,17.0,15.0,5303667000000.0,Lapped,Abu Dhabi Grand Prix,0.0
+1354,MAG,haas,14.0,16.0,5354709000000.0,Lapped,Abu Dhabi Grand Prix,0.0
+1355,LAW,rb,12.0,17.0,,Finished,Abu Dhabi Grand Prix,0.0
+1356,BOT,sauber,9.0,18.0,,Retired,Abu Dhabi Grand Prix,0.0
+1357,COL,williams,20.0,19.0,,Retired,Abu Dhabi Grand Prix,0.0
+1358,PER,red_bull,10.0,20.0,,Retired,Abu Dhabi Grand Prix,0.0
